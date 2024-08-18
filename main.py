@@ -24,7 +24,7 @@ app.include_router(doctor_router)
 app.include_router(patient_router)
 app.include_router(admin_router)
 config = Config(".env")
-app.add_middleware(SessionMiddleware, secret_key=config("SECRET_KEY"))
+app.add_middleware(SessionMiddleware, secret_key=config("SESSION_SECRET_KEY"))
 
 #Dependency
 def get_db():
