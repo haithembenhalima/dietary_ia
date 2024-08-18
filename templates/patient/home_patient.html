@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../static/css/home_doctor.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <title>Page d'acceuil</title>
+    <style>
+        button{
+            box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+            background-color: #43498b !important;
+            border: none !important;
+            padding: 25px !important;
+            width: 340px;
+        }
+    </style>
+</head>
+<body>
+    <!-- NavBar-->
+
+    <nav>
+        <div class="navbar-div container">
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-10">
+                    <a href="/patient" style="color: white; text-decoration: none;"><h4>Dietary AI</h4></a>
+                </div>
+                <div class="col" style="display: flex;">
+                    <a href="/patient/notifications" style="color: white;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bell-fill" viewBox="0 0 16 16">
+                            <path d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2m.995-14.901a1 1 0 1 0-1.99 0A5 5 0 0 0 3 6c0 1.098-.5 6-2 7h14c-1.5-1-2-5.902-2-7 0-2.42-1.72-4.44-4.005-4.901"/>
+                        </svg>
+                        <svg style="color: orange; position: relative; right: 10px; bottom: 5px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-1-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M9.283 4.002H7.971L6.072 5.385v1.271l1.834-1.318h.065V12h1.312z"/>
+                        </svg>
+                    </a>
+                    <div class="profile-menu dropdown-center" style="margin-left: 25px;">
+                        <p class=" dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">{{patient_name}}</p>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="/patient/account">Paramètre de compte</a></li>
+                          <li><a class="dropdown-item" href="/">Sortir</a></li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <!-- Header -->
+    <div class="container" style="margin-top: 30px;">
+        <h1 style="font-weight: bold; font-size: 47px;">Bienvenue cher <span style="color: #43498b;">{{patient_name}}</span></h1>
+        <h4>Dans notre plateforme de nutrition relie les médecins aux patients</h4>
+    </div>
+
+    <br>
+
+    <div class="container">
+        <div class="row" style="padding: 15px;">
+            <div class="col">
+                <a href="patient/informations"><button class="btn btn-primary">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-person-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0m-2-6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+                        <path d="M2 13c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4"/>
+                    </svg>
+                    Ajouter vos informations
+                </button></a>
+            </div>
+            <div class="col">
+                <a href="/patient/analyse"><button class="btn btn-primary">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-clipboard2-pulse" viewBox="0 0 16 16">
+                        <path d="M9.5 0a.5.5 0 0 1 .5.5.5.5 0 0 0 .5.5.5.5 0 0 1 .5.5V2a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 5 2v-.5a.5.5 0 0 1 .5-.5.5.5 0 0 0 .5-.5.5.5 0 0 1 .5-.5z"/>
+                        <path d="M3 2.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 0 0-1h-.5A1.5 1.5 0 0 0 2 2.5v12A1.5 1.5 0 0 0 3.5 16h9a1.5 1.5 0 0 0 1.5-1.5v-12A1.5 1.5 0 0 0 12.5 1H12a.5.5 0 0 0 0 1h.5a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5z"/>
+                        <path d="M9.979 5.356a.5.5 0 0 0-.968.04L7.92 10.49l-.94-3.135a.5.5 0 0 0-.926-.08L4.69 10H4.5a.5.5 0 0 0 0 1H5a.5.5 0 0 0 .447-.276l.936-1.873 1.138 3.793a.5.5 0 0 0 .968-.04L9.58 7.51l.94 3.135A.5.5 0 0 0 11 11h.5a.5.5 0 0 0 0-1h-.128z"/>
+                    </svg>
+                    Ajouter vos Analyses Médicale
+                </button></a>
+            </div>
+            <div class="col">
+                <a href="/patient/rdv"><button class="btn btn-primary">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
+                        <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2M1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857z"/>
+                        <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+                    </svg>
+                    Prendre un Rendez-vous
+                </button></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <hr>
+        {% if file_name != "none" %}
+        <p id="file_name" style="display: none;">{{file_name}}</p>
+
+
+        <span id="time" class="badge text-bg-success text-center" style="font-size: 26px; margin-bottom: 25px;"></span>
+
+
+        <br>
+        <br>
+        <div class="row">
+            <div class="col">
+                <h3>Petit-déjeuner: </h3>
+                <br>
+                <p><strong>Catègorie:</strong> <span id="category"></span></p>
+                <p><strong>Plat:</strong> <span id="nutrient"></span></p>
+                <p><strong>Bénéfice:</strong> <span id="food_name"></span></p>
+                <p><strong>Valeur:</strong> <span id="value"></span></p>
+            </div>
+            <div class="col">
+                <h3>Déjeuner: </h3>
+                <p><strong>Catègorie:</strong> <span id="category-d"></span></p>
+                <p><strong>Plat:</strong> <span id="nutrient-d"></span></p>
+                <p><strong>Bénéfice:</strong> <span id="food_name-d"></span></p>
+                <p><strong>Valeur:</strong> <span id="value-d"></span></p>
+            </div>
+        </div>
+        {% endif %}
+
+
+    </div>
+<br>
+<br><br><br>
+
+    
+    <script src="../../static/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script>
+        // Function to load and parse the CSV file
+        function loadCSV(file) {
+            Papa.parse(file, {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    displayRandomMeal(results.data);
+
+                }
+            });
+        }
+
+        // Function to display a random meal
+        function displayRandomMeal(data) {
+            
+            const randomMeal = data[Math.floor(Math.random() * data.length)];
+            
+            document.getElementById('category').innerText = randomMeal[Object.keys(randomMeal)[0]];
+            document.getElementById('nutrient').innerText = randomMeal[Object.keys(randomMeal)[1]];
+            document.getElementById('food_name').innerText = randomMeal[Object.keys(randomMeal)[2]];
+            document.getElementById('value').innerText = randomMeal[Object.keys(randomMeal)[3]];
+
+            const randomMealD = data[Math.floor(Math.random() * data.length)];
+            
+            document.getElementById('category-d').innerText = randomMealD[Object.keys(randomMealD)[0]];
+            document.getElementById('nutrient-d').innerText = randomMealD[Object.keys(randomMealD)[1]];
+            document.getElementById('food_name-d').innerText = randomMealD[Object.keys(randomMealD)[2]];
+            document.getElementById('value-d').innerText = randomMealD[Object.keys(randomMealD)[3]];
+        }
+
+        // Load the CSV file
+        csv_path = document.getElementById("file_name").innerHTML;
+        console.log(csv_path);
+        loadCSV('/analysis/analyse4_comparison_increase.csv');  // Update with the actual path to your CSV file
+    
+
+        function getTonightDate() {
+            const now = new Date();
+
+            return now;
+        }
+
+        // Display the date of tonight in the desired format
+        function displayTonightDate() {
+            const tonight = getTonightDate();
+            const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
+            const formattedTonight = tonight.toLocaleDateString('fr-FR', options);
+            document.getElementById('time').innerText = formattedTonight;
+        }
+
+        // Call the function to display the date of tonight
+        displayTonightDate();
+    </script>
+</body>
+</html>

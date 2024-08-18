@@ -1,0 +1,90 @@
+/* Home accounts page style */ 
+
+body
+{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    background-image: url("../img/v870-tang-35.jpg");
+    background-size: cover;
+
+}
+
+nav{
+    background-color: #43498b;
+    padding: 14px;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.profile-menu{
+    height: 33px;
+    padding: 1px;
+    
+}
+.profile-menu:hover
+{
+    background-color: #393f7e;
+    border-radius: 10px;
+
+}
+.options
+{
+    background-color: #43498b; 
+    padding: 25px;
+    border-radius: 15px; 
+    margin: 25px;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+
+}
+.options a
+{
+    color: white;
+    text-decoration: none;
+}
+.options a:hover
+{
+    color: rgb(200, 200, 200);
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #393f7e
+}
+
+.profile-button {
+    background: #393f7e;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #262b5a
+}
+
+.profile-button:focus {
+    background: #393f7e;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #393f7e;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #393f7e;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8
+}

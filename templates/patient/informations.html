@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../static/css/account.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <title>Informations Médicale</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <!-- NavBar-->
+
+    <nav>
+        <div class="navbar-div container">
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-10">
+                    <a href="/patient" style="color: white; text-decoration: none;"><h4>Dietary AI</h4></a>
+                </div>
+                <div class="col" style="display: flex;">
+                    <a href="/patient/notifications" style="color: white;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bell-fill" viewBox="0 0 16 16">
+                            <path d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2m.995-14.901a1 1 0 1 0-1.99 0A5 5 0 0 0 3 6c0 1.098-.5 6-2 7h14c-1.5-1-2-5.902-2-7 0-2.42-1.72-4.44-4.005-4.901"/>
+                        </svg>
+                        <svg style="color: orange; position: relative; right: 10px; bottom: 5px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-1-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M9.283 4.002H7.971L6.072 5.385v1.271l1.834-1.318h.065V12h1.312z"/>
+                        </svg>
+                    </a>
+                    <div class="profile-menu dropdown-center" style="margin-left: 25px;">
+                        <p class=" dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">{{patient_data.firstname}}</p>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="/patient/account">Paramètre de compte</a></li>
+                          <li><a class="dropdown-item" href="/">Sortir</a></li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    <!-- Header -->
+    <div class="container" style="margin-top: 30px;">
+        <h1 style="font-weight: bold; font-size: 47px;">Vos Informations Médicale</h1>
+    </div>
+
+
+
+
+      
+
+    <div class="container rounded mt-5 mb-5">
+        
+        {% if result %}
+        <div class="alert alert-success" role="alert">
+          Informations modifier avec succée 
+        </div>
+        {% endif%}
+
+        {% if not infos %}
+        <div class="row">
+            <div class="col-md-3 border-right">
+
+            </div>
+            <div class="col-md-5 border-right">
+                <form action="/patient/informations" method="post" enctype="multipart/form-data">
+                <div class="p-3 py-5">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h4 class="text-right">Remplir vos informations médicales</h4>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12"><label class="labels">Age</label><input type="text" class="form-control" name="age" placeholder="Ex: 34"></div>
+                        <div class="col-md-12"><label class="labels">Le Poids</label><input type="text" class="form-control" name="weight" placeholder="Ex: 78kg"></div>
+                        <div class="col-md-12"><label class="labels">La Hauteur</label><input type="text" class="form-control" name="height" placeholder="Ex: 178cm"></div>
+
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <label class="labels">Sanguin</label>
+                            <select class="form-control" name="blood_type" id="blood">
+                                <option value="A+">A+</option>
+                                <option value="A-">A-</option>
+                                <option value="AB+">AB+</option>
+                                <option value="AB-">AB-</option>
+                                <option value="O+">O+</option>
+                                <option value="O-">O-</option>
+                                <option value="B+">B+</option>
+                                <option value="B-">B-</option>
+                            </select>
+                            
+                              
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12"><label class="labels">Les Types de maladies?</label><input type="text" class="form-control" name="disease" placeholder="Ex: Diabète"></div>
+                            <div class="col-md-12"><label class="labels">Vos Médicaments</label><input type="text" name="drugs" class="form-control" placeholder="Ex: GLIBENCLAMIDE BIOGARAN"></div>    
+                        </div>
+                    <div class="mt-5 text-center"><button class="btn btn-primary profile-button" type="submit">Enregistrer</button></div>
+                </div>
+            </div>
+         </form>
+        </div>
+        {% endif %}
+
+        
+        {% if infos.isValide == 0 %}
+        <div class="row">
+            <div class="col-md-3 border-right">
+
+            </div>
+            <div class="col-md-5 border-right">
+                <form action="/patient/informations" method="post" enctype="multipart/form-data">
+                <div class="p-3 py-5">
+
+                    <div class="row mt-3">
+                        <div class="col-md-12"><label class="labels">Age</label><input type="text" class="form-control" name="age" value="{{infos.age}}" ></div>
+                        <div class="col-md-12"><label class="labels">Le Poids</label><input type="text" class="form-control" name="weight" value="{{infos.weight}}" ></div>
+                        <div class="col-md-12"><label class="labels">La Hauteur</label><input type="text" class="form-control" name="height" value="{{infos.height}}" ></div>
+
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <label class="labels">Sanguin</label>
+                            <select class="form-control" name="blood_type" id="blood">
+                                <option value="A+">A+</option>
+                                <option value="A-">A-</option>
+                                <option value="AB+">AB+</option>
+                                <option value="AB-">AB-</option>
+                                <option value="O+">O+</option>
+                                <option value="O-">O-</option>
+                                <option value="B+">B+</option>
+                                <option value="B-">B-</option>
+                            </select>
+                            
+                              
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12"><label class="labels">Les Types de maladies?</label><input type="text" class="form-control" name="disease" value="{{infos.disease}}" ></div>
+                            <div class="col-md-12"><label class="labels">Vos Médicaments</label><input type="text" name="drugs" class="form-control" value="{{infos.drugs}}" ></div>    
+                        </div>
+                        <div class="mt-5 text-center"><button class="btn btn-primary profile-button" type="submit">Enregistrer</button></div>
+
+                </div>
+            </div>
+         </form>
+        </div>
+        {% endif %}
+
+
+
+
+        {% if infos.isValide == 1 %}
+        <div class="row">
+            <div class="col-md-3 border-right">
+            </div>
+            <div class="col-md-5 border-right">
+                <form action="/patient/informations" method="post" enctype="multipart/form-data">
+                <div class="p-3 py-5">
+                    <span class="badge text-bg-success text-center" style="font-size: 19px;">Vos Informations est validé par le docteur</span>
+
+                    <div class="row mt-3">
+                        <div class="col-md-12"><label class="labels">Age</label><input type="text" class="form-control" name="age" value="{{infos.age}}" disabled></div>
+                        <div class="col-md-12"><label class="labels">Le Poids</label><input type="text" class="form-control" name="weight" value="{{infos.weight}}" disabled></div>
+                        <div class="col-md-12"><label class="labels">La Hauteur</label><input type="number" class="form-control" name="height" value="{{infos.height}}" disabled></div>
+
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <label class="labels">Sanguin</label>
+                            <select class="form-control" name="blood_type" id="blood" disabled>
+                                <option value="{{infos.blood_type}}">{{infos.blood_type}}</option>
+                            </select>
+                            
+                              
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12"><label class="labels">Les Types de maladies?</label><input type="text" class="form-control" name="disease" value="{{infos.disease}}" disabled></div>
+                            <div class="col-md-12"><label class="labels">Vos Médicaments</label><input type="text" name="drugs" class="form-control" value="{{infos.drugs}}" disabled></div>    
+                        </div>
+                </div>
+            </div>
+         </form>
+        </div>
+        {% endif %}
+
+
+
+
+    </div>
+    </div>
+    </div>
+
+    <script src="../../static/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

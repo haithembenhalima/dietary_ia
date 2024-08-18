@@ -1,0 +1,815 @@
+ssgrp_nom,Food name,Calcium Ca,Cuivre Cu,Fer Fe,Iode I,Manganèse Mn,Phosphore P,Potassium K,Sélénium Se,Sodium Na,Zinc Zn,Vitamine E,Vitamine C ,Vitamine B6 ,Vitamine B9 ,Vitamine B12 
+salades composées et crudités,"Salade de thon et légumes, appertisée","20,7","0,1","1,1",2,"0,1","88,4",232,-,445,"0,6","1,6","2,75","0,29",31,"1,45"
+salades composées et crudités,"Salade composée avec viande ou poisson, appertisée",22,"0,07","0,7",< 20,"0,1",92,220,30,381,"0,38","2,04",-,"0,12","11,1","1,23"
+salades composées et crudités,"Champignons à la grecque, appertisés",27,"0,17","1,06","2,46","0,13","64,1",277,"1,79",500,"0,4","1,08","6,67","0,088","19,6","0,018"
+salades composées et crudités,"Salade de pommes de terre, fait maison",19,"0,12","0,65",-,"0,1",52,254,-,529,"0,31",-,10,"0,14",7,0
+salades composées et crudités,"Taboulé ou Salade de couscous, préemballé",24,"0,16","0,88",< 20,"0,4",80,210,< 20,399,"0,65","1,26","6,27","0,052","14,5",0
+salades composées et crudités,"Salade de pomme de terre à la piémontaise, préemballée",13,"0,07","0,43",< 20,"0,08",72,300,< 20,433,"0,49","3,96","21,6","0,099","21,6",-
+salades composées et crudités,"Salade de riz, appertisée","23,3","< 0,1","0,43",< 5,"0,1","66,6",143,"17,7",431,"0,3","1,63","4,48","0,13","33,5","0,43"
+salades composées et crudités,"Salade de pâtes, végétarienne",14,"0,06","0,6",4,"0,2",37,84,-,51,"0,4","1,95",21,"0,09",16,0
+salades composées et crudités,"Crudité, sans assaisonnement (aliment moyen)","25,1","0,048","0,42","7,21","0,17","25,6",241,"7,79","12,5","0,17","0,34","12,2","0,082","38,8",0
+salades composées et crudités,"Salade de pâtes aux légumes, avec poisson ou viande, préemballée",19,"0,085","0,95","3,13","0,15","69,4",193,"5,3",378,"0,53","1,18","12,3","0,14","18,4","0,14"
+salades composées et crudités,"Macédoine de légumes en salade, avec sauce, préemballée",-,-,-,-,-,-,-,-,426,-,-,-,-,-,-
+salades composées et crudités,"Salade César au poulet (salade verte, fromage, croûtons, sauce), préemballée",100,"0,11","0,5",< 20,"0,15",150,300,< 20,301,"0,69","2,24","1,11","0,094","29,3","0,48"
+salades composées et crudités,"Salade végétale à base de boulgour et/ou quinoa et légumes, préemballée",37,"0,16","1,2",< 20,"0,62",110,140,< 20,309,"0,77","2,67","< 0,5","0,059","22,1",-
+salades composées et crudités,"Carottes râpées, avec sauce, préemballées",31,-,-,-,-,-,-,-,264,-,-,-,-,-,-
+salades composées et crudités,"Salade de betterave, avec sauce, préemballée",21,-,4,-,-,-,-,-,280,-,-,5,-,-,-
+salades composées et crudités,"Salade de chou ou Coleslaw, avec sauce, préemballée",39,"0,03","1,3",< 20,"0,26",29,210,< 20,353,"0,27","2,21","21,6","0,093","14,6",-
+salades composées et crudités,"Salade de concombre à la crème/fromage blanc, préemballée",-,-,-,-,-,-,-,-,411,-,-,-,-,-,-
+salades composées et crudités,"Salade de lentilles et saucisse fumée, préemballée",-,-,-,-,-,-,-,-,355,-,-,-,-,-,-
+salades composées et crudités,"Salade grecque, avec sauce, préemballée",-,-,-,-,-,-,-,-,416,-,-,-,-,-,-
+salades composées et crudités,"Salade de riz à la niçoise, avec sauce, préemballée",-,-,-,-,-,-,-,-,300,-,-,-,-,-,-
+salades composées et crudités,"Taboulé ou Salade de couscous au poulet, préemballé",18,"0,1","0,8",< 20,"0,32",100,190,< 20,424,"0,65","1,48","< 0,5","0,096","96,5","0,1"
+soupes,"Soupe aux lentilles, préemballée à réchauffer",25,"0,17","1,07",4,"0,24",74,144,"16,1",143,"0,61",0,"1,7","0,09",20,"0,12"
+soupes,"Soupe à la volaille et aux légumes, préemballée à réchauffer",-,-,-,-,-,-,-,-,700,-,-,-,-,-,"0,11"
+soupes,"Soupe aux légumes variés, préemballée à réchauffer",14,"0,02","0,14",< 20,"0,04",19,110,< 20,275,"0,11","0,62","5,75","0,16","39,8","0,052"
+soupes,"Soupe de poissons et / ou crustacés, préemballée à réchauffer",130,"0,07","0,61",70,"0,05",80,110,< 20,343,"0,25","0,32","< 0,5","0,032",< 5,"1,35"
+soupes,"Soupe aux légumes variés, déshydratée reconstituée",21,"0,03","0,19",1,"0,05","12,5",60,< 20,276,"0,12","0,19","3,28","0,044","8,4","0,029"
+soupes,"Soupe aux poireaux et pommes de terre, préemballée à réchauffer",16,"0,02","0,17",< 20,"0,04",16,94,< 20,290,"0,13","0,28","7,95","0,23","29,3","0,045"
+soupes,"Soupe à la volaille et aux vermicelles, préemballée à réchauffer","7,96","0,069","0,14","0,5","0,057",17,"30,5",< 10,326,"0,1","0,03",-,"0,02",2,"0,02"
+soupes,"Bouillon de viande et légumes type pot-au-feu, prêt à consommer",1,0,"0,1",-,"0,01",1,15,0,430,-,-,0,"0,01",12,"0,05"
+soupes,"Soupe à l'oignon, préemballée à réchauffer",12,"0,054","0,27",-,"0,098",4,28,-,315,"0,25","0,11","0,5","0,02",6,0
+soupes,"Soupe aux champignons, préemballée à réchauffer",7,"0,016","0,09","8,4","0,018",12,62,-,312,"0,06","0,24",-,"0,007",1,0
+soupes,"Soupe à la carotte, préemballée à réchauffer",15,-,"0,3",-,-,20,140,-,259,-,-,11,"0,08",9,-
+soupes,"Soupe à la tomate, préemballée à réchauffer",11,"0,03","0,14",< 20,"0,04",15,130,< 20,259,"0,08","0,69","6,4","0,2","23,8","0,01"
+soupes,"Soupe chorba frik, à base de viande et de frik",19,"0,07","0,97",2,"0,31",54,157,"1,4",337,"0,84","0,6","3,2","0,07",16,"0,11"
+soupes,"Soupe minestrone, préemballée à réchauffer","33,3","0,11","0,56",1,"0,11","34,5",106,"< 2,2",300,"0,19","0,67","1,25","0,071",10,0
+soupes,"Soupe au pistou, déshydratée reconstituée",19,"0,1","0,4",1,"0,1",24,132,"2,2",256,"0,19","0,2",7,"0,07",18,-
+soupes,"Soupe de poissons et / ou crustacés, déshydratée reconstituée",-,-,-,-,-,0,"0,01",-,253,-,-,-,-,-,-
+soupes,"Soupe asiatique, avec pâtes, déshydratée reconstituée",-,-,-,-,-,-,"37,8",-,334,-,-,-,-,-,-
+soupes,"Soupe marocaine, déshydratée reconstituée",-,-,-,-,-,-,"80,5",-,318,-,-,-,-,-,-
+soupes,"Soupe aux poireaux et pommes de terre, déshydratée reconstituée",-,-,-,-,-,"0,013","0,023",-,292,-,-,30,-,-,-
+soupes,"Soupe à la volaille et aux légumes, déshydratée reconstituée",-,-,-,-,-,-,-,-,292,-,-,3,"0,03",8,-
+soupes,"Bouillon de boeuf, déshydraté reconstitué","5,25","0,041","0,15",-,"0,027","0,01","0,01",0,290,"0,048","0,01",0,"0,0083","1,75","0,065"
+soupes,"Soupe aux asperges, déshydratée reconstituée",-,-,-,-,-,"0,015","0,035",-,303,-,-,-,-,10,-
+soupes,"Soupe à la tomate et aux vermicelles, préemballée à réchauffer",-,-,-,-,-,-,-,-,307,-,-,20,-,-,-
+soupes,"Soupe aux céréales et aux légumes, déshydratée reconstituée","12,5",-,"0,29",-,-,-,94,-,312,-,-,"3,84","0,07","16,8",-
+soupes,"Soupe à la tomate, déshydratée reconstituée",11,"0,03","0,14",< 20,"0,04",10,65,< 20,278,"0,1","0,25","< 0,5","0,027","6,85","0,14"
+soupes,"Soupe aux champignons, déshydratée reconstituée",10,"0,02","0,02",< 20,"0,03","9,51",48,< 20,311,"0,07","0,24","< 0,5","0,033","8,25","0,028"
+soupes,"Soupe à l'oignon, déshydratée reconstituée",20,"0,043",-,1,"0,043","0,01","56,7","< 3,35",318,"0,083",-,-,-,-,-
+soupes,"Soupe au potiron, préemballée à réchauffer",15,"0,03","0,14",< 20,"0,04",17,130,< 20,256,"0,13","0,51","< 0,5","0,065","9,35","0,036"
+soupes,"Bouillon de volaille, déshydraté reconstitué",5,0,"0,05",-,"0,01",0,10,0,312,"0,01",-,0,0,1,"0,01"
+soupes,"Bouillon de légumes, déshydraté reconstitué",1,0,"0,1",-,"0,01",0,8,-,240,-,-,0,0,1,0
+soupes,"Soupe à la tomate et aux vermicelles, déshydratée reconstituée","9,1","0,05","0,18",< 20,"0,06",0,62,< 20,271,"0,08","0,34","< 0,5","0,018",11,-
+soupes,"Soupe à la volaille et aux vermicelles, déshydratée reconstituée","7,2","0,02","0,1",< 20,"0,05",14,36,< 20,272,"0,1","< 0,08","< 0,5","0,025",-,"0,026"
+soupes,"Soupe au pistou, préemballée à réchauffer",-,-,-,-,-,-,-,-,260,-,-,-,-,-,-
+soupes,"Soupe au potiron, déshydratée reconstituée",-,-,-,-,-,"0,01","0,01",-,279,-,-,-,-,-,-
+soupes,"Soupe asiatique, avec pâtes, préemballée à réchauffer",-,-,-,-,-,-,-,-,360,-,-,-,-,-,-
+soupes,"Soupe minestrone, déshydratée reconstituée",-,-,-,-,-,-,122,-,281,-,-,5,"0,06",18,-
+soupes,"Soupe au cresson, déshydratée reconstituée",-,-,-,-,-,-,-,-,308,-,-,-,-,-,-
+soupes,"Soupe au cresson, préemballée à réchauffer",-,-,-,-,-,-,-,-,310,-,-,-,"0,25",30,-
+soupes,"Soupe aux légumes avec fromage, préemballée à réchauffer",-,-,-,-,-,-,-,-,268,-,-,11,"0,3",30,-
+soupes,"Soupe aux légumes verts, préemballée à réchauffer",24,"0,02","0,27",< 20,"0,06",24,120,< 20,280,"0,18","0,28",9,"0,25","27,5",-
+soupes,"Soupe aux légumes verts, déshydratée reconstituée",12,"0,02","0,11",< 20,"0,03",15,50,< 20,264,"0,09","0,18","6,15","0,033","7,6",-
+soupes,"Soupe aux pois cassés, préemballée à réchauffer",-,-,-,-,-,-,-,-,279,-,-,-,-,-,-
+soupes,"Soupe froide type Gaspacho ou Gazpacho, préemballée",11,"0,04","0,11",< 20,"0,06",25,210,< 20,293,"0,1","1,31","1,98","0,041",< 5,-
+soupes,"Soupe aux asperges, préemballée à réchauffer",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+soupes,Soupe (aliment moyen),"27,8","0,04","0,27","16,5","0,064","24,9",108,"9,35",296,"0,18","0,48","5,04","0,1","15,8","0,24"
+soupes,"Soupe miso, déshydratée reconstituée",18,"0,06","0,19",70,"0,08",19,49,< 20,438,"0,11","0,26",-,"< 0,01","16,5","1,98"
+plats composés,Tripes à la mode de Caen,23,-,"1,1",6,-,-,"42,5",-,423,"0,64","0,47",0,"0,023",-,"1,2"
+plats composés,"Tripes à la mode de Caen, préemballées","23,6",-,"0,9",-,-,-,"34,6",-,421,"2,1",-,-,-,-,-
+plats composés,Tripes à la tomate ou à la provençale,-,-,-,-,-,-,-,-,492,-,-,-,-,-,-
+plats composés,Blanquette de veau,15,"0,07","0,92",< 20,"0,04",110,190,< 20,295,"3,2","0,37","< 0,5","0,074","23,3","1,59"
+plats composés,Boeuf bourguignon,"16,9","0,053","1,75","3,8","0,054",215,230,"< 2,58",354,"2,91","0,6","0,8","0,23",11,"0,6"
+plats composés,"Sauté d'agneau au curry, préemballé","17,5","0,07","2,15",-,"0,04",181,200,-,514,"2,77",-,-,-,-,-
+plats composés,"Canard en sauce (poivre vert, chasseur, etc.), préemballé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,"Lapin à la moutarde, préemballé",-,-,-,-,-,-,-,-,480,-,-,-,-,-,-
+plats composés,Coq au vin,14,"0,03","1,3","3,3","0,14",128,145,"0,11",420,"0,21","0,48","1,5","0,17",31,"1,4"
+plats composés,Paupiette de veau,"27,6","0,088",1,"5,54","0,18",133,272,"3,26",510,"1,25","0,68","1,34","0,28","14,3","0,41"
+plats composés,Paupiette de volaille,"27,6","0,083","1,03","5,4","0,18",130,264,"6,08",251,"1,09","0,69","1,33","0,31","13,8","0,28"
+plats composés,Viande en sauce (aliment moyen),"17,1","0,064","1,13","7,06","0,07",142,198,"6,17",341,"2,4","0,81","1,27","0,16","14,8","0,74"
+plats composés,Poulet au curry et au lait de coco,18,"0,05","0,51",< 20,"0,12",110,210,< 20,427,"0,44","1,65","2,51","0,17","17,5","0,15"
+plats composés,"Meloukhia, plat à base de boeuf et corete, fait maison","51,3","0,04","2,4","2,8","0,05",88,228,"2,1",373,2,"5,1","1,5","0,12",20,"0,66"
+plats composés,"Palette à la diable, préemballée",-,-,1,-,-,-,-,-,901,-,-,-,-,-,-
+plats composés,"Langue de boeuf sauce madère, préemballée",-,-,-,-,-,-,-,-,430,-,-,-,-,-,-
+plats composés,"Porc au caramel, préemballé","9,9","0,04","0,49",< 20,"0,11",94,160,< 20,536,"1,1","0,62","< 0,5","0,094","9,1","0,27"
+plats composés,"Boulettes au boeuf, à la sauce tomate, préemballées",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,"Paupiette de veau, préemballée,  cuite au four",24,"0,07","0,94",< 20,"0,03",180,260,< 20,428,"2,3","< 0,08","1,62","0,22","11,9","1,61"
+plats composés,"Carpaccio de boeuf, avec marinade",112,"0,1","1,84","9,12","0,064",187,242,"5,84",437,"2,79","3,18","5,87","0,27",12,"2,04"
+plats composés,Yakitori (brochettes japonaises grillées en sauce),"9,8","0,06","0,61",< 20,"0,15",220,340,< 20,475,"1,5","0,5",-,"0,25","31,8","0,41"
+plats composés,"Brochette de boeuf, cuite",23,"0,1","2,4",< 20,"0,08",200,430,< 20,345,"4,4","0,65","10,8","0,31","19,8","1,94"
+plats composés,"Brochette de volaille, cuite",13,"0,05","0,61",< 20,"0,1",230,520,< 20,299,"1,1","0,74","8,49","0,47","88,3","0,7"
+plats composés,"Hachis parmentier à la viande, préemballé","59,6","0,079","0,71","4,55","0,087","45,5",184,< 10,322,"1,2","0,2","0,65","0,08","5,71","0,42"
+plats composés,Couscous au mouton,"31,6","0,1","1,24",3,"0,19","95,4",187,-,322,"1,22","0,4",5,"0,11",18,"0,5"
+plats composés,"Couscous à la viande ou au poulet, préemballé, allégé",22,-,"0,78","2,3","0,16",88,148,-,300,-,"0,97",7,"0,13",18,"0,04"
+plats composés,"Poêlée de pommes de terre préfrites, lardons ou poulet, et autres, sans légumes verts, préemballée",26,"0,08","0,49",< 20,"0,1",88,390,< 20,260,"0,45","1,49","3,04","0,15","23,8","0,15"
+plats composés,"Couscous royal (avec plusieurs viandes), préemballé","25,2","0,098","0,93","5,8","0,21","72,3",179,"< 2,58",345,"1,02","0,4","1,69","0,15","17,2","0,28"
+plats composés,Couscous au poulet,"18,4",-,"0,86",3,-,69,153,-,307,-,"0,48","4,05","0,14","19,1","0,13"
+plats composés,"Couscous à la viande, préemballé","25,2","0,098",-,-,"0,21",-,179,"< 2,58",313,"1,02",-,-,-,-,-
+plats composés,"Parmentier de canard, préemballé",-,-,-,-,-,-,-,-,310,-,-,-,-,-,-
+plats composés,"Parmentier de canard, préemballé, cuit",39,"0,07","0,68",< 20,"0,06",74,290,< 20,296,"0,89","< 0,08","< 0,5","0,11","45,9","0,61"
+plats composés,"Cassoulet, appertisé","45,7","0,14","1,23",6,"0,22",107,289,< 10,388,"0,88","0,18","2,94","0,091",30,"0,12"
+plats composés,"Choucroute garnie, préemballée","27,1","0,076","0,83","17,8","0,067","60,6","97,5",< 10,552,"0,84","0,25","9,09","0,02",10,-
+plats composés,"Petit salé ou saucisse aux lentilles, préemballé",20,"0,2","1,8",2,"0,3",145,167,"2,8",384,"1,2","0,39","< 0,5","0,14","22,9","0,13"
+plats composés,"Pot-au-feu, préemballé","23,5","0,15","1,69",6,"0,069",-,189,< 10,130,"3,48",-,-,-,"4,6",-
+plats composés,Boeuf aux carottes,"15,9","< 0,1","0,9","3,5","< 0,1",95,119,"3,2",231,"3,5","0,4",2,"0,16","9,5","0,8"
+plats composés,Potée auvergnate (chou et porc),"30,5","0,09","1,05",4,"0,15",78,221,"2,4",356,"0,6","0,5","10,5","0,16","19,9","0,2"
+plats composés,"Cassoulet au porc, appertisé",-,-,-,-,-,-,293,-,500,-,-,-,-,-,-
+plats composés,"Cassoulet au canard ou oie, appertisé",-,-,-,-,-,-,307,-,416,-,-,-,-,-,-
+plats composés,Tomate farcie,"18,4","0,066","0,87",4,"0,12",62,199,"< 2,2",280,"0,75","1,1",7,"0,07",-,-
+plats composés,"Chou farci, préemballé",145,"0,23",-,-,"0,65",-,-,"5,33",350,"0,8",-,-,-,-,-
+plats composés,"Chili con carne, préemballé","32,8","0,15","1,6",2,"0,2","78,5",282,-,371,"1,2","0,88","2,25","0,15",44,"0,35"
+plats composés,Moussaka,16,"0,06","0,62","5,2","0,06",150,576,"1,4",393,"0,47","0,46","3,1","0,09",10,"0,6"
+plats composés,Navarin d'agneau aux légumes,"22,1","0,065","1,31","5,16","0,16",107,230,"1,8",260,"0,85","0,84","4,76","0,14","18,4","1,19"
+plats composés,Tajine de mouton,"5,1","0,1","1,6",2,"< 0,1",102,211,1,394,3,"0,71","< 0,5","0,19",24,"1,65"
+plats composés,Osso buco,"13,7","0,057","0,6","3,3","0,066","97,4",234,"3,24",586,"1,26","0,53","2,4","0,19",11,"0,38"
+plats composés,"Poulet basquaise, préemballé",-,-,-,-,-,-,-,-,355,-,-,-,-,-,-
+plats composés,"Tajine de poulet, préemballé",18,"0,06","0,45",< 20,"0,13",82,220,< 20,466,"0,46","1,27","< 0,5","0,096","30,2","0,075"
+plats composés,"Chop suey (porc ou poulet), préemballé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,Légumes farcis (sauf tomate),"27,1","0,1","0,56","6,4","0,096","77,6",184,"2,58",277,"0,63","0,55","4,86","0,11","21,2","0,18"
+plats composés,Moules marinières (oignons et vin blanc),-,-,-,-,-,-,-,-,345,-,-,-,-,-,-
+plats composés,"Moules farcies (matière grasse, persillade…), préemballées, crues",40,"0,11","2,5",100,"0,16",180,180,30,430,2,"1,79","< 0,5","0,063","54,2","19,3"
+plats composés,"Gratin ou cassolette de poisson et / ou fruits de mer,  préemballé, cru","58,2","0,05","0,41",-,-,"37,1",223,-,328,"0,55",-,-,-,-,-
+plats composés,"Gratin ou cassolette de poisson et / ou fruits de mer, préemballé, cuit",52,"0,03","0,28",20,"0,05",120,180,< 20,366,"0,47","0,63","< 0,5","0,022","19,4","0,95"
+plats composés,"Saumon à l'oseille, préemballé",-,-,-,-,-,-,-,-,277,-,-,-,-,-,-
+plats composés,"Poisson blanc à la bordelaise, préemballé","21,1",< 1,"1,2",92,< 1,162,317,"4,9",513,< 1,"2,6","9,7","< 0,05",< 5,"2,2"
+plats composés,"Poisson blanc à la provençale ou niçoise (sauce tomate), préemballé","16,1",-,< 1,71,-,99,348,"3,8",280,-,"1,1",-,"< 0,05",< 5,"1,1"
+plats composés,"Poisson blanc à la florentine (sauce aux épinards), préemballé",-,-,-,-,-,-,-,-,232,-,-,-,-,-,-
+plats composés,"Poisson blanc à la marinière (sauce aux oignons, vin blanc, moules), préemballé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,"Poisson blanc à la sauce moutarde, préemballé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,"Poisson blanc à la parisienne (sauce aux champignons), préemballé",-,-,-,-,-,-,-,-,220,-,-,-,-,-,-
+plats composés,"Poisson blanc à l'estragon, préemballé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,"Poisson blanc sauce oseille, préemballé",40,"0,03","0,24",44,"0,04",130,260,< 50,350,"0,33","1,1","< 0,5","0,058","18,8","1,87"
+plats composés,"Saumon farci, préemballé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+plats composés,Brochette de poisson,"26,5","0,026","0,72","65,5","0,049",190,320,"11,7",223,"0,25","1,02","6,33","0,26",12,"2,03"
+plats composés,Brochette de crevettes,100,"0,01","1,7","31,5","0,085",153,169,"4,92",140,"0,51","1,96","8,33","0,11","10,1","1,14"
+plats composés,"Poisson en sauce, surgelé","18,2","0,051","0,4","79,5","0,042",164,331,"4,58",327,"0,26","2,31",0,"0,17","34,5","1,53"
+plats composés,Poisson cuit (aliment moyen),"29,9","0,069","0,69","61,7","0,037",228,347,"36,2",216,"0,61","0,91","0,96","0,33","17,7","3,87"
+plats composés,"Poisson blanc, cuit (aliment moyen)","30,3","0,051","0,38","63,5","0,026",192,296,"32,3",354,"0,58","0,71","0,45","0,21",15,"1,92"
+plats composés,"Poisson blanc, de mer, cuit (aliment moyen)","27,6","0,05","0,37","68,3","0,014",189,294,"33,7",392,"0,56","0,71","0,37","0,21","13,6","1,99"
+plats composés,Paëlla,"38,7","0,11","0,69",4,"0,13",90,148,< 10,343,"0,68","1,3","1,95","0,12","18,8","1,1"
+plats composés,Couscous au poisson,24,"0,1","4,1",10,"0,2",89,192,-,337,"0,4","1,2","7,6","0,1",24,"0,5"
+plats composés,"Gratin de poisson et purée ou brandade aux pommes de terre ou parmentier de poisson, préemballé","46,8",< 1,< 1,20,< 1,90,190,"4,7",323,< 1,"1,5",< 1,"< 0,05",< 5,"0,36"
+plats composés,Sushi ou Maki aux produits de la mer,16,"0,08","0,25",< 20,"0,21",81,130,< 20,218,"0,44","0,33","1,11","0,15","9,19","1,36"
+plats composés,Terrine ou mousse de légumes,"50,5",-,"0,78",6,-,132,232,-,524,"0,7","2,11","2,16","0,36",110,traces
+plats composés,Flan de légumes,72,"0,06","0,75",< 20,"0,09",100,200,< 20,354,"0,58","1,36","< 0,5","0,073","51,4","0,6"
+plats composés,"Haricots blancs à la sauce tomate, appertisés",-,-,-,-,-,-,-,-,349,-,-,-,-,-,-
+plats composés,"Piperade basquaise, préemballée","7,6","0,05","0,24",< 20,"0,08",14,190,< 20,300,"0,09","1,3","12,2","0,063",11,-
+plats composés,"Poêlée de légumes assaisonnés sans champignon, surgelée, crue","24,5",-,6,-,-,-,-,-,500,-,-,"30,8",-,-,-
+plats composés,"Poêlée de légumes assaisonnés à l'asiatiques ou wok de légumes, surgelée, crue",-,-,-,-,-,-,-,-,73,-,-,-,-,-,-
+plats composés,"Poêlée de légumes assaisonnés grillée, méridionale ou méditerranéenne, surgelée, crue",-,-,-,-,-,-,-,-,167,-,-,-,-,-,-
+plats composés,"Poêlée de légumes assaisonnés aux champignons (""champêtre""), surgelée",-,-,-,-,-,-,-,-,134,-,-,-,-,-,-
+plats composés,"Ratatouille cuisinée, préemballée","16,4","0,074","0,38",3,"0,13",22,295,< 10,369,"0,17","1,56","25,2","0,04",18,-
+plats composés,"Épinards à la crème, préemballés",-,-,-,-,-,-,-,-,287,-,-,-,-,-,-
+plats composés,"Gratin d'aubergine, préemballé",-,-,-,-,-,-,-,-,172,-,-,-,-,-,-
+plats composés,Gratin dauphinois,"38,6","0,044","0,32","8,2","0,079",95,219,"< 2,2",325,"0,29","0,24","3,1","0,04",7,0
+plats composés,Endive au jambon,"77,2","< 0,1","0,38","8,11","< 0,1",146,104,"3,13",259,"0,6","0,23","3,72","0,11","14,3","0,3"
+plats composés,"Gratin de chou-fleur, préemballé","96,6","0,12","0,27",-,"< 0,1",-,147,-,420,"2,3",-,-,-,-,-
+plats composés,Gratin de légumes,"83,1","0,087","0,51","4,03","0,13","65,5",175,"1,8",228,"0,49","1,84","12,6","0,11",41,"0,12"
+plats composés,"Riste d'aubergines (aubergines, tomates, oignons), préemballée",-,-,-,-,-,-,-,-,470,-,-,-,-,-,-
+plats composés,"Palet ou galette de légumes, préfrit, surgelé",-,-,-,-,-,-,-,-,351,-,-,-,-,-,-
+plats composés,"Palet ou galette de légumes, préfrit, surgelé, cuit",40,"0,06","0,52",< 20,"0,15",58,250,< 20,301,"0,36","2,63","1,23","0,088","33,8","0,18"
+plats composés,"Choucroute, sans garniture, égouttée, cuite",43,"0,05","0,3",< 20,"0,09",15,83,< 20,505,"0,15","0,4","17,2","0,055","19,1","0,028"
+plats composés,"Tomate à la provençale, fait maison",23,"0,068","0,67","2,37","0,18",33,247,"0,93",188,"0,22","1,64","21,5","0,11","22,2",0
+plats composés,Beignet de légumes,"52,4","0,078","0,72","6,62","0,18","68,1",209,"2,55",275,"0,4","2,86","13,2","0,12",43,"0,14"
+plats composés,"Falafel ou Boulette de pois-chiche et/ou fève, frite",57,"0,3","2,1",< 20,"0,93",180,390,< 20,640,"1,3","6,9","< 0,5","0,17",105,0
+plats composés,"Gratin de légumes en sauce blanche type béchamel, cuit",84,"0,03","0,31",< 20,"0,09",88,190,< 20,255,"0,44","0,81","1,94","0,052","24,4","0,33"
+plats composés,"Falafel ou Boulette de pois-chiche et/ou fève, préemballé",57,"0,24","1,6",< 20,"0,77",99,340,< 20,347,1,"4,04","< 0,5","0,082","57,3",-
+plats composés,"Blé dur précuit cuisiné, en sachet micro-ondable",-,-,-,-,-,-,-,-,463,-,"8,99",-,"0,12",118,0
+plats composés,"Blé dur précuit, grains entiers, cuisiné, à poêler",-,-,-,-,-,-,-,-,603,-,-,-,-,-,-
+plats composés,"Ravioli à la viande, sauce tomate, appertisé","25,3","0,074","1,09","5,5","0,24","60,9",169,"< 2,2",382,"0,49","0,32","1,22","0,15",3,traces
+plats composés,Lasagnes ou cannelloni à la viande (bolognaise),"44,8","0,12","0,71","8,67","0,21","82,9",194,< 10,385,"0,78","0,91","2,57","0,12","7,49","0,45"
+plats composés,"Pâtes à la bolognaise (spaghetti, tagliatelles…)",14,"0,08","0,79",5,"0,15","58,3",176,"1,1",329,"0,9","1,31","4,22","0,14","9,05","0,32"
+plats composés,Riz cantonais,"16,7","< 0,1","0,4",2,"0,1","60,6",78,"1,18",361,"0,5","0,91","0,97","0,085",33,"0,14"
+plats composés,"Ravioli chinois à la vapeur à la crevette, cuit",31,"0,04","0,57",< 20,"0,045",65,56,< 20,383,"0,31","0,97","< 0,5","0,038","24,5","0,65"
+plats composés,Gratin de pâtes,116,"0,05","0,4","5,4","0,1",137,124,"4,9",340,"0,88","0,34","1,1","0,06",6,"0,39"
+plats composés,"Lasagnes ou cannellonis aux légumes, préemballées, cuits",-,-,-,-,-,-,-,-,222,-,-,-,-,-,-
+plats composés,"Pâtes à la carbonara (spaghetti, tagliatelles…)","36,1","0,08","0,45",8,"0,15","86,2","87,1",1,347,1,"1,19","0,82","0,06","7,29","0,11"
+plats composés,"Lasagnes ou cannellonis au poisson, préemballées",63,-,"0,41",-,-,-,-,-,403,-,-,-,-,-,-
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis, ravioles du Dauphiné), au fromage, cuites","72,3","0,3","0,48","5,2","0,2","88,5","47,9",13,317,"0,7","0,1","0,2","0,04","7,47","0,18"
+plats composés,"Couscous de légumes, préemballé",-,-,-,-,-,-,-,-,274,-,-,-,-,-,-
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis), au fromage et aux légumes, préemballées, cuites",69,"0,13","0,57",< 20,"0,23",93,130,< 20,420,"0,51","0,64","< 0,5","0,058","8,62","0,25"
+plats composés,"Pâtes fraîches farcies (ex : raviolis, totellinis), à la viande (ex : bolognaise), préemballées, crues","37,5",-,"0,72",-,-,-,-,-,512,-,-,-,-,-,-
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis), à la viande (ex : bolognaise), préemballées, cuites",29,"0,12","0,78",< 20,"0,26","85,5",95,< 35,206,"0,74","0,28","< 0,5","0,051","13,6","0,57"
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis, ravioles du Dauphiné), au fromage, préemballées, crues",141,< 1,1,-,< 1,165,112,-,458,< 1,"< 0,1",-,"< 0,05","11,4","0,6"
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis), au fromage et aux légumes, préemballées, crues",-,-,-,-,-,-,-,-,422,-,-,-,-,-,-
+plats composés,Nouilles sautées/poêlées aux crevettes,22,"0,07","0,5",< 20,"0,19",54,100,< 20,334,"0,42","0,68","< 0,5","0,056",77,"0,21"
+plats composés,"Riz blanc, avec poulet, préemballé, cuit",-,-,-,-,-,-,-,-,312,-,-,-,-,-,-
+plats composés,"Riz blanc, avec légumes et viande, préemballé, cuit",-,-,-,-,-,-,-,-,338,-,-,-,-,-,-
+plats composés,"Risotto, aux légumes, préemballé",-,-,-,-,-,-,-,-,304,-,-,-,-,-,-
+plats composés,"Risotto, aux fruits de mer, préemballé",-,-,-,-,-,-,-,-,337,-,-,-,-,-,-
+plats composés,"Risotto, aux fromages, préemballé",-,-,-,-,-,-,-,-,328,-,-,-,-,-,-
+plats composés,"Raviolis aux légumes, sauce tomate, appertisés",15,"0,11","1,1",< 20,"0,15",32,280,< 20,300,"0,21","0,85","< 0,5","0,096","14,2","0,082"
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis), aux légumes, préemballées, cuites",50,"0,1","0,51",< 20,"0,2",75,76,< 20,195,"0,48","0,81","< 0,5","0,038","42,4","0,49"
+plats composés,"Pâtes en sauce aux fromages (spaghetti, tagliatelles…), préemballées",-,-,-,-,-,-,-,-,310,-,-,-,-,-,-
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis), aux légumes, préemballées, crues",-,-,-,-,-,-,-,-,339,-,-,-,-,-,-
+plats composés,"Pâtes fraîches farcies (ex : raviolis, tortellinis), cuites (aliment moyen)","54,9","0,18","0,6","8,32","0,23","86,7","83,1","13,4",287,"0,64","0,36","0,23","0,047","14,2","0,36"
+plats composés,"Feuille de vigne farcie au riz ou dolmas, égouttée, préemballée",70,"0,15","1,1",20,"0,39",42,110,< 20,534,"0,36","2,48","< 0,5","0,042","19,9",-
+plats composés,"Lasagnes ou cannellonis aux légumes, préemballés, cuits",76,"0,1","0,62",< 20,"0,21",85,240,< 20,238,"0,54","2,19","3,34","0,08",27,"0,2"
+plats composés,"Lasagnes ou cannellonis aux légumes et au fromage de chèvre, préemballés, cuits",32,"0,03","0,18",< 20,"0,08",40,59,< 20,340,"0,23","1,14","0,67","0,047","39,5","0,18"
+plats composés,"Lasagnes ou cannellonis au fromage et aux épinards, préemballés",-,-,-,-,-,-,-,-,397,-,-,-,-,-,-
+plats composés,"Aligot (purée de pomme de terre à la tomme fraîche), préemballé",-,-,-,-,-,-,-,-,398,-,-,-,-,-,-
+plats composés,"Fromage de chèvre pané à dorer, préemballé",100,"0,05","0,27",20,"0,13",160,120,< 20,507,"0,69","2,79","< 0,5","0,035","24,9","0,17"
+plats composés,Soufflé au fromage,226,"0,04","0,6","14,8","0,03",196,138,"4,74",391,"1,37","0,6",1,"0,06","20,1","0,6"
+plats composés,"Tartiflette, préemballée",74,"0,05","0,26",< 20,"0,06",95,270,< 20,300,"0,57","0,56","< 0,5","0,13","33,4","0,2"
+plats composés,Gougère,302,"0,14","1,34","24,5","0,15",297,131,"8,24",453,"1,98","0,97",0,"0,11","37,4","0,98"
+plats composés,"Préparation à base de fromage(s) pour fondue savoyarde, préemballée",517,"0,3","0,3",10,"< 0,1",400,73,< 5,511,2,"0,35",0,"0,065",< 16,"0,83"
+plats composés,Fromage pané au jambon,"84,9","< 0,1","0,8",13,"0,17",202,246,7,929,"1,4","4,1",< 1,"0,25",< 20,"0,61"
+plats composés,Escalope végétale ou steak à base de soja,160,"0,28","2,3",< 20,"0,94",230,380,< 50,700,"1,3","0,2",2,"0,08","54,6","0,4"
+plats composés,Tempeh,88,"0,46","1,7",< 20,"1,3",190,310,< 20,39,"1,3","1,17","< 0,5","0,091","38,5","0,019"
+plats composés,"Nuggets de blé (sans soja), préemballé",22,"0,11","0,88",< 20,"0,41",82,340,< 20,269,"0,68","6,84","< 0,5","0,026","12,3",-
+plats composés,"Nuggets soja et blé (ne convient pas aux véganes ou végétaliens), préemballé",55,"0,26","1,7",< 20,"0,69",150,400,< 20,472,"0,97","3,88","4,36","0,056","23,1","0,034"
+plats composés,"Nuggets soja et blé (convient aux véganes ou végétaliens), préemballé",61,"0,25","2,4",< 20,"0,89",160,330,< 20,556,1,"3,76","< 0,5","0,042","31,5",-
+plats composés,Pané soja et blé (ne convient pas aux véganes ou végétaliens),50,"0,15","2,2",< 20,"0,57",140,380,< 20,411,"0,71","5,22","< 0,5","0,048","26,6","0,057"
+plats composés,"Bâtonnet pané soja et blé (convient aux véganes ou végétaliens), préemballée",70,"0,32","2,5",< 20,1,170,350,< 20,452,"1,3","2,55","< 0,5","0,075","30,3",-
+plats composés,"Escalope panée, soja, blé et fromage, type cordon bleu, préemballée",170,"0,19","1,3",< 20,"0,46",190,320,< 20,601,"1,3","3,35","< 0,5","0,045","31,5","0,33"
+plats composés,"Raviolis au tofu, à la sauce tomate, préemballés",28,"0,13","0,68",< 20,"0,19",46,260,< 20,322,"0,35","1,71","< 0,5","0,033","7,76",-
+plats composés,"Galette de céréales au fromage (sans soja), préemballé",93,"0,2","1,1",< 20,"0,8",350,340,< 20,398,"1,3","2,07","< 0,5","0,047","12,1","0,12"
+plats composés,"Galette de céréales aux légumes (sans soja), préemballé",29,"0,21","1,3",< 20,"0,97",130,220,< 20,411,"1,1","2,97","< 0,5","0,054","20,7",-
+plats composés,"Boulette végétale au soja et/ou blé, préemballée",73,"0,22","2,4",< 20,"0,85",170,620,< 20,605,1,"4,61","< 0,5","0,057","27,8","0,078"
+plats composés,"Galette ou pavé aux lentilles, soja et légumes, préemballé",69,"0,28","1,9",< 20,"0,81",150,230,< 20,338,"1,3","2,14","< 0,5","0,052","45,3",-
+plats composés,"Galette ou pavé au blé (seitan) et légumes, préemballé",42,"0,21","1,2",< 20,"0,74",100,150,< 20,398,1,"1,65","< 0,5","0,049","46,3",-
+plats composés,"Galette ou pavé au blé et soja (convient aux véganes ou végétaliens), préemballé",89,"0,34","3,3",< 20,"1,2",200,520,< 20,519,"1,3","2,67","< 0,5","0,052","39,5",-
+plats composés,"Galette ou pavé au blé et soja (ne convient pas aux véganes ou végétaliens), préemballé",72,"0,19","2,2",< 20,"0,84",150,400,< 20,454,"0,86","4,7","< 0,5","0,06",138,"0,05"
+plats composés,"Galette ou pavé au soja et fromage, préemballé",250,"0,31","1,8",< 20,"0,88",280,230,< 20,427,"1,9","0,75","< 0,5","0,057","23,7","0,24"
+plats composés,"Galette ou pavé au soja et légumes, préemballé",99,"0,26","2,1",< 20,"0,93",180,430,< 20,372,"1,2","2,29","< 0,5","0,043","38,1",-
+plats composés,"Galette ou pavé au soja, fromage et légumes, préemballé",170,"0,33",2,< 20,"0,99",210,320,< 20,389,"1,5","1,74","< 0,5","0,055","23,3","0,08"
+plats composés,"Haché végétal à base de soja, préemballé",67,"0,41","2,2",< 20,"0,78",170,620,< 20,312,"1,2","2,09","< 0,5","0,081",34,-
+,,,,,,,,,,,,,,,,
+"pizzas, tartes et crêpes salées","Pizza au fromage ou Pizza margherita, préemballée",239,"0,097","1,14","33,4","0,25",286,170,"< 4,5",493,"1,52","1,29","5,5","0,086",40,"0,55"
+"pizzas, tartes et crêpes salées","Quiche lorraine, préemballée",116,"0,047","0,63",31,"0,097",145,164,< 10,503,"0,8","1,55","0,71","0,095","17,1","0,3"
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée béchamel jambon, préemballée",41,"0,1","0,73",5,"0,22","74,6",220,-,236,"0,88",-,-,-,-,-
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée béchamel jambon fromage, préemballée",105,"< 0,1","0,49","12,6","0,15",118,148,"5,06",466,"0,61","1,24","1,59","0,11","30,4","0,34"
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée béchamel champignon, préemballée","59,5",-,"0,3",-,-,-,260,-,333,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Tarte aux légumes, préemballée",104,"0,058",-,-,"0,13",-,242,"2,95",392,"0,62",-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza jambon fromage, préemballée",174,"< 0,1","0,7",6,"0,2",170,234,8,608,"1,4","1,1","1,45","0,2",17,"0,46"
+"pizzas, tartes et crêpes salées","Tarte au fromage, préemballée",180,-,"0,54",-,-,151,110,-,427,-,"1,34","0,21","0,07","13,7","0,46"
+"pizzas, tartes et crêpes salées","Tarte à la provençale, préemballée","62,5","< 0,1","0,63","8,7","0,2","80,8",140,"4,92",293,"0,5","1,54","4,25","0,1","14,7","0,22"
+"pizzas, tartes et crêpes salées","Pizza à la viande, type bolognaise, préemballée",144,"0,21","1,36",-,"0,32",211,189,-,534,"1,87","0,92","4,2","0,14",29,"0,8"
+"pizzas, tartes et crêpes salées",Burritos,88,"0,07","1,1",< 20,"0,14",170,260,< 50,299,"1,8","0,58","6,5","0,11","14,9","1,36"
+"pizzas, tartes et crêpes salées",Fajitas,77,"0,06","0,55",< 20,"0,14",210,280,< 50,357,"0,66","0,93","19,6","0,24","23,4","0,42"
+"pizzas, tartes et crêpes salées","Pizza au chorizo ou salami, préemballée",135,-,-,-,-,-,-,-,608,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza aux fruits de mer, préemballée",-,-,-,-,-,-,-,-,500,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza au saumon, préemballée",110,"0,09","0,54",< 20,"0,28",160,190,< 20,492,"0,84","1,68","< 0,5","0,093",15,"0,6"
+"pizzas, tartes et crêpes salées","Pizza au chèvre et lardons, préemballée",136,-,-,-,-,-,-,-,590,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza aux légumes ou Pizza 4 saisons, préemballée",120,"0,1","0,61",< 20,"0,25",130,200,< 20,439,"0,92","0,73","1,52","0,099","25,8","0,3"
+"pizzas, tartes et crêpes salées","Pizza champignons fromage, préemballée",-,-,-,-,-,-,-,-,450,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza 4 fromages, préemballée",267,-,"0,81","8,8",-,176,141,-,444,-,"1,08","3,64","0,15","52,9","0,28"
+"pizzas, tartes et crêpes salées",Pizza (aliment moyen),196,,"0,78",11,,181,187,,509,,"1,11","3,37","0,16","35,2","0,39"
+"pizzas, tartes et crêpes salées","Pissaladière, préemballée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Tarte à l'oignon, préemballée",-,-,-,-,-,-,-,-,367,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza jambon fromage champignons ou pizza royale, reine ou regina, préemballée",155,"0,1","0,7","11,2","0,25",174,211,"6,5",524,"1,16","1,18","4,84","0,17",31,"0,38"
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée béchamel fromage, préemballée","87,5",-,"0,35",-,-,162,118,-,404,-,"0,93","0,37","0,08","29,3","0,5"
+"pizzas, tartes et crêpes salées","Flammenkueche ou Tarte flambée aux lardons, préemballée",52,"< 0,1","0,6",7,"0,2",102,230,< 5,654,"0,8","1,4","0,8","0,21",20,"0,44"
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée béchamel jambon fromage champignon, préemballée","35,3",-,"0,6",-,-,86,"86,6",-,260,-,"0,94","1,23","0,1","30,5","0,26"
+"pizzas, tartes et crêpes salées","Tarte ou Tourte aux poireaux, préemballée",95,"0,06","0,6",< 20,"0,24",110,130,< 20,381,"0,66","1,28","< 0,5","0,06","87,1","0,45"
+"pizzas, tartes et crêpes salées","Tarte au saumon, préemballée","59,2","< 0,1","0,63","12,4","0,2",111,162,"10,3",333,"0,42","1,47","1,83","0,17","20,1","0,73"
+"pizzas, tartes et crêpes salées","Tourte au riesling, préemballée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Tarte à la tomate, préemballée",21,"0,05","0,77",< 20,"0,33",64,280,< 20,318,"0,28","0,62","5,2","0,091","40,9","0,071"
+"pizzas, tartes et crêpes salées","Crêpe ou Galette complète (oeuf, jambon, fromage), préemballée",240,"0,11","0,96",< 20,"0,24",280,190,< 20,445,"1,8","0,41","0,9","0,11","38,1","1,04"
+"pizzas, tartes et crêpes salées","Tarte aux noix de Saint-Jacques, préemballée",-,-,-,-,-,-,-,-,449,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pastilla au poulet, préemballée",-,-,-,-,-,-,-,-,595,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza aux lardons, oignons et fromage, préemballée",192,-,-,-,-,-,-,-,570,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Crêpe ou Galette aux noix de St Jacques, préemballée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées",Tarte ou quiche salée (aliment moyen),"90,6","0,049","0,64","21,7","0,16",123,187,"6,01",479,"0,7","1,35","1,38","0,11",27,"0,31"
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée béchamel champignon, cuite, préemballée",82,"0,07","0,43",< 20,"0,18",100,180,< 20,304,"0,53","1,88","< 0,5","0,027","31,7","0,21"
+"pizzas, tartes et crêpes salées","Tarte au maroilles ou Flamiche au maroilles, préemballée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Crêpe ou Galette fourrée au poisson et / ou fruits de mer, préemballée",-,-,-,-,-,-,-,-,445,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Ficelle picarde, préemballée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Tarte épinard chèvre, préemballée",79,"0,05","0,77",< 20,"0,32",98,180,< 20,393,"0,56","0,54","< 0,5","0,054","62,5","0,2"
+"pizzas, tartes et crêpes salées","Tielle sétoise, préemballée",-,-,-,-,-,-,-,-,610,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza au thon, préemballée",-,-,-,-,-,-,-,-,397,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza kebab, préemballée",-,-,-,-,-,-,-,-,549,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza au poulet, préemballée",-,-,-,-,-,-,-,-,462,-,-,-,-,-,-
+"pizzas, tartes et crêpes salées","Pizza type raclette ou tartiflette, préemballée",-,-,-,-,-,-,-,-,603,-,-,-,-,-,-
+sandwichs,"Focaccia, garnie",-,-,-,-,-,-,-,-,585,-,-,-,-,-,-
+sandwichs,"Fougasse, garnie","76,6","0,11","1,24",18,"0,39","88,9",177,"4,51",711,"0,95","1,22","0,1","0,1","16,8","0,074"
+sandwichs,"Croque-monsieur, fait maison",249,"0,08","1,32",11,-,200,189,-,686,"1,34","0,55","0,02",0,-,-
+sandwichs,"Hot-dog, préemballé",56,"0,08","0,85",< 20,"0,26",150,210,< 20,676,"1,1",1,"< 0,5","0,068","31,2","0,5"
+sandwichs,"Hamburger, provenant de fast food",64,"0,08","1,23","16,9","0,22",110,251,< 10,492,"2,26","0,07","0,3","0,11",17,"1,2"
+sandwichs,"Cheeseburger, provenant de fast food","91,3","< 0,1","1,2",15,"0,2",142,198,-,528,"2,1","0,09","0,4","0,37",7,"1,31"
+sandwichs,"Double cheeseburger, provenant de fast food",104,"0,15","1,4",< 5,"0,2",161,184,"6,6",461,"2,9","1,35","0,9","0,2","28,9","0,99"
+sandwichs,"Burger au poisson, provenant de fast food",55,"0,06","0,49",< 20,"0,25",140,210,< 20,440,"0,59","2,83","< 0,5","0,066","23,3","0,83"
+sandwichs,"Sandwich grec ou Kebab, pita, crudités","33,6","0,2","0,95",3,"0,2",-,316,-,492,"1,8",-,-,-,-,-
+sandwichs,"Sandwich grec ou Kebab, baguette, crudités","22,1","0,1","2,1","4,87","0,3",117,263,10,469,"2,05","0,2",2,"0,13",15,"0,88"
+sandwichs,"Sandwich baguette, thon, crudités (tomate, salade), mayonnaise","26,8","0,079","0,83","15,1","0,31",90,160,"11,3",514,"0,53","4,05","2,63","0,13",19,"0,63"
+sandwichs,"Sandwich panini, jambon cru, mozzarella, tomates",97,-,"1,1",-,-,-,184,-,493,"1,3",-,-,-,-,-
+sandwichs,"Sandwich baguette, jambon, oeuf dur, crudités (tomate, salade), beurre","24,6","0,093","0,97","7,66","0,3",108,186,"8,61",569,"0,84","0,43","5,77","0,13","22,8","0,16"
+sandwichs,"Sandwich baguette, poulet, crudités (tomate, salade), mayonnaise","27,4","0,14","1,04","12,7","0,35","96,7",167,"9,39",557,"0,71","2,56","3,61","0,15","20,4","0,08"
+sandwichs,"Sandwich baguette, jambon emmental, préemballé",-,-,-,-,-,-,-,-,635,-,-,-,-,-,-
+sandwichs,"Sandwich baguette, saumon fumé, beurre","26,5","0,15","0,91","22,3","0,39",118,178,"11,2",742,"0,6","0,7","2,84","0,23","21,3","0,9"
+sandwichs,"Sandwich baguette, thon, maïs, crudités, préemballé",-,-,-,-,-,-,-,-,410,-,-,-,-,-,-
+sandwichs,Burger au poulet,66,"0,07","0,6",< 20,"0,25",170,220,< 20,463,"0,71","2,1","< 0,5","0,16","33,4","0,3"
+sandwichs,Pan bagnat,"37,9","0,053","0,69","7,52","0,2","59,8",157,"3,83",428,"0,33","1,56","12,2","0,13","25,5","0,86"
+sandwichs,"Sandwich baguette, jambon, beurre","54,6","0,11","0,95","5,63","0,55",152,171,"3,41",675,"1,22","0,4","3,09","0,17",17,"0,15"
+sandwichs,"Sandwich baguette, camembert, beurre",137,"0,11","0,7","7,57","0,34",150,111,"4,02",670,"1,42","0,52",0,"0,13","40,4","0,68"
+sandwichs,"Sandwich baguette, pâté, cornichons","26,2","0,26","2,49","5,59","0,36",119,143,"5,02",712,"1,17","0,36","1,67","0,14","37,8",1
+sandwichs,"Sandwich baguette, saucisson, beurre","29,1","0,12","1,09","5,13","0,36",129,224,"3,56",828,"1,34","0,43",2,"0,24",18,"0,3"
+sandwichs,"Sandwich baguette, jambon, emmental, beurre",188,"0,12","0,83","10,2","0,3",242,152,"5,03",614,"1,79","0,42","2,33","0,14","15,8","0,47"
+sandwichs,Sandwich (aliment moyen),97,,"1,1",,,,184,,493,"1,3",,,,,
+sandwichs,"Toasts ou Canapés salés, garnitures diverses, préemballés",153,"0,096","1,79","7,17","0,18",181,152,"3,77",445,"1,38","0,42","1,57","0,16","26,1","0,72"
+sandwichs,"Sandwich baguette, crudités diverses, mayonnaise","26,6","0,092","0,87","14,9","0,31","75,9",153,"6,77",426,"0,54","2,88","7,02","0,092","31,1","0,13"
+sandwichs,"Sandwich baguette, dinde, crudités (tomate, salade), mayonnaise","23,3","0,096","0,99",13,"0,3",108,174,"12,9",446,"0,97","3,14","3,11","0,16","19,5","0,32"
+sandwichs,"Sandwich baguette, oeuf, crudités (tomate, salade), mayonnaise","33,6","0,092","1,08","21,2","0,31",101,135,"8,6",457,"0,68","2,99","3,31","0,092",39,"0,3"
+sandwichs,"Sandwich baguette, porc, crudités (tomate, salade), mayonnaise","21,6","0,091","0,98","12,3","0,3",125,178,"10,4",449,1,"3,14","3,11","0,16","19,9","0,45"
+sandwichs,"Sandwich baguette, merguez, ketchup moutarde","26,6","0,091","1,25","40,5","0,3",100,280,"6,68",851,"1,31","0,82","0,64","0,15","15,3","0,51"
+sandwichs,"Sandwich baguette, salami, beurre","25,3","0,1","1,41","5,08","0,36",133,160,"6,85",1070,"1,39","0,31",0,"0,14","14,5","0,54"
+sandwichs,Croque-madame,200,"0,069","1,27","16,1","0,2",189,154,"10,9",515,"1,1","0,78","0,014","0,035","17,4","0,55"
+sandwichs,Sandwich baguette (aliment moyen),,,,,,,,,615,,,,,,
+sandwichs,"Sandwich pain de mie, garnitures diverses, préemballé",-,-,-,-,-,-,-,-,463,-,-,-,-,-,-
+sandwichs,"Croque-monsieur, préemballé",251,< 1,< 1,"11,1",< 1,259,189,"5,8",595,"1,6","0,6","1,7","< 0,05","23,1","0,39"
+sandwichs,"Sandwich pain de mie complet, jambon, crudités, fromage optionnel, préemballé",-,-,-,-,-,-,-,-,557,-,-,-,-,-,-
+sandwichs,"Sandwich pain de mie complet, thon, crudités, mayonnaise, préemballé",-,-,-,-,-,-,-,-,432,-,-,-,-,-,-
+sandwichs,"Sandwich pain de mie complet, jambon, fromage, préemballé",205,-,-,-,-,-,-,-,525,-,-,-,-,-,-
+sandwichs,"Sandwich pain de mie complet, poulet, crudités, mayonnaise, préemballé",-,-,-,-,-,-,-,-,517,-,-,-,-,-,-
+feuilletées et autres entrées,"Cake salé (garniture : fromage, légumes, viande, poisson, volaille, etc.), préemballé",170,"< 0,1","1,3",-,"0,1",-,165,-,657,"1,4",-,-,-,-,-
+feuilletées et autres entrées,"Samossa ou Samoussa, préemballé, cuit",31,"< 0,1","1,3",3,"0,4",95,182,"38,6",493,"0,87","1,45","0,7","0,13",20,"0,34"
+feuilletées et autres entrées,Feuilleté au poisson et / ou fruits de mer,"39,4","< 0,1","0,4",50,"0,2",66,212,13,406,"0,42","1,38",0,"0,22",< 16,"0,77"
+feuilletées et autres entrées,"Spécialité chinoise type bouchée à la vapeur, préemballée, cuite",-,-,-,-,-,-,-,-,540,-,-,-,-,-,-
+feuilletées et autres entrées,"Feuilleté aux escargots, préemballé",-,-,-,-,-,-,-,-,491,-,-,-,-,-,-
+feuilletées et autres entrées,Feuilleté ou Friand au fromage,119,"0,11","1,4","10,4","0,22",172,139,"1,4",632,"0,54","1,38","0,3","0,06",7,"0,5"
+feuilletées et autres entrées,"Feuilleté ou Friand à la viande, préemballé","15,6","0,09","1,65","7,1","0,16","38,8",199,"5,63",610,"1,49",-,-,-,-,-
+feuilletées et autres entrées,"Bouchée à la reine, à la viande/volaille/quenelle",40,"0,06","0,42",< 20,"0,19",86,170,< 20,498,"0,54","1,29","< 0,5","0,044","7,4","0,19"
+feuilletées et autres entrées,Croissant au jambon,219,-,-,5,-,-,216,-,500,"1,7",-,-,-,-,-
+feuilletées et autres entrées,Rouleau de printemps,"22,5","0,1","0,4",25,"0,15","14,9",87,5,116,"0,45","0,18","1,5","0,11",< 16,"0,16"
+feuilletées et autres entrées,Nem ou Pâté impérial,25,"0,1","0,9",1,"0,2",67,160,"4,38",609,"0,62","0,82","< 0,5","0,12","23,1","0,22"
+feuilletées et autres entrées,"Brick garni (garniture : crevettes, légumes, volaille, viande, poisson, etc.), fait maison, cuit","32,8","0,13","1,03","12,9","0,15",115,183,"9,35",565,"0,9","4,95","2,93","0,19","16,6","0,67"
+feuilletées et autres entrées,"Bouchée à la reine, au poisson et fruits de mer","70,1","0,13","1,2","28,3","0,08","91,2",144,"4,95",451,"0,78","1,12","0,9","0,079","10,5","1,25"
+feuilletées et autres entrées,Feuilleté ou Friand jambon fromage,115,"0,075","0,43","11,5","0,17",114,126,"2,29",512,"0,77","2,1","0,95","0,078","7,29","0,29"
+feuilletées et autres entrées,"Beignet de viande, volaille ou poisson, fait maison, cru","36,6","0,073","1,23","34,3","0,082",180,272,"13,9",285,"1,61","2,91","0,27","0,24","15,8","1,13"
+feuilletées et autres entrées,"Brick à l'oeuf, fait maison, cuit","70,7","0,05","1,4",31,"0,08",141,132,"9,6",538,"0,83",7,"3,6","0,1",92,"0,81"
+feuilletées et autres entrées,Brick au boeuf,-,"0,06","5,2",15,"1,8",119,221,"3,6",1510,"1,53","6,6","3,1","0,16",23,"0,62"
+feuilletées et autres entrées,"Brick à la pomme de terre, fait maison, cuit","26,4","0,07","0,6","5,9","0,11",54,252,"1,5",400,"0,26","7,7","8,8","0,19",21,"0,09"
+feuilletées et autres entrées,Feuilleté salé (aliment moyen),"93,4","0,093","1,25","13,5","0,19",112,171,"4,25",574,"0,93","1,49","0,34","0,092","7,23","0,52"
+feuilletées et autres entrées,"Bouchée à la reine, garnie (aliment moyen)","55,1","0,093","0,81","19,2","0,14","88,6",157,"7,48",475,"0,66","1,21","0,58","0,062","8,95","0,72"
+feuilletées et autres entrées,"Nem ou Pâté impérial, au poulet, préemballé, cuit",29,"0,12",1,< 20,"0,29",96,220,< 20,477,"0,81","1,18","< 0,5","0,079","21,9","0,095"
+feuilletées et autres entrées,"Nem ou Pâté impérial, au porc, préemballé, cuit",25,"0,12","0,91",< 20,"0,31",82,230,< 20,457,"0,79","2,33","< 0,5","0,08","32,3","0,18"
+feuilletées et autres entrées,"Nem ou Pâté impérial, aux crevettes et/ou au crabe, préemballé, cuit",47,"0,2","1,1",< 20,"0,35",89,180,< 20,480,"0,83","1,99","< 0,5","0,056","32,6","0,51"
+feuilletées et autres entrées,"Croissant au jambon fromage, préemballé",117,-,-,-,-,-,-,-,510,-,-,-,-,-,-
+légumes,"Avocat, pulpe, cru","9,4","0,18","0,34",< 20,"0,2",38,430,< 20,6,"0,43","2,23","< 0,5","0,17","70,4",0
+légumes,"Bette ou blette, crue",25,"0,03","0,85",< 20,"0,16",10,300,< 20,"53,2","0,07","0,25","3,08","0,036","24,7",0
+légumes,"Carotte, crue",25,"0,05","0,24",< 20,"0,1",22,230,< 20,43,"0,18","0,27","2,05","0,093","59,4",0
+légumes,"Champignon, tout type, cru","7,78","0,32","0,69",1,"0,061","85,6",341,"< 2,78","4,76","0,65","0,01","3,4","0,082",29,0
+légumes,"Salade ou chicorée frisée, crue",76,"0,2","0,85","0,4","0,42","37,5",367,1,"33,5","0,61","2,26","18,5","0,063",126,0
+légumes,"Chou rouge, cru",36,"0,02","0,25",< 20,"0,12",30,260,< 20,14,"0,15","< 0,08","18,7","0,14","31,9",0
+légumes,"Chou-fleur, cru",23,"0,02","0,27",< 20,"0,14",40,270,< 20,6,"0,22","< 0,08","4,14","0,22","56,2",0
+légumes,"Concombre, pulpe et peau, cru","19,2","0,026","0,13","0,3","0,085","24,7",157,< 10,"4,8","0,095","0,09","8,25","0,037","12,3",0
+légumes,"Courgette, pulpe et peau, crue","18,7","0,052","0,36","1,64","0,18","44,7",262,"0,58",9,"0,31","0,12","17,5","0,19",36,0
+légumes,"Cresson de fontaine, cru",101,"0,11","0,9","13,5","0,37","64,2",320,-,"50,5","0,16",1,"51,5","0,13",9,0
+légumes,"Céleri branche, cru",46,"0,03","0,06",< 20,"0,08",24,390,< 20,79,"0,09","< 0,08","5,51","0,052","56,8",0
+légumes,"Endive, crue",20,"0,04","0,12",< 20,"0,08",23,150,< 20,< 5,"0,13","< 0,08","2,12","0,026","25,6",0
+légumes,"Fenouil, cru",37,"0,08","0,2",< 20,"0,1",28,320,< 20,22,"0,19","< 0,08","2,57","0,05","19,6",0
+légumes,"Laitue, crue","64,6","0,036","0,98","1,22","0,4","29,5",200,"2,33","8,47","0,2","0,18","11,8","0,09","43,5",0
+légumes,"Oignon, cru",25,"< 0,0001","0,00019",< 10,"0,1",37,190,"2,3",39,"0,23","0,045","3,9","0,1","29,6",0
+légumes,"Pissenlit, cru","62,3","0,067","3,1","0,4","0,16",66,397,"< 2,2","87,8","0,21","3,44","37,5","0,25",27,0
+légumes,"Poireau, cru","50,7","0,087","1,5","1,1","0,34","40,3",208,"0,56","14,5","0,21","0,74","18,5","0,24",73,0
+légumes,"Poivron, vert, jaune ou rouge, cru","7,7","< 0,1","0,4",< 5,"0,1","22,5",155,"0,1","8,4","0,13","1,44",121,"0,38","40,7",-
+légumes,"Potiron, cru",21,"0,13","0,8",-,"0,13",44,340,-,1,"0,32","1,06",9,"0,061",16,0
+légumes,"Radis rouge, cru",15,"< 0,01","0,4",< 20,"0,04",20,250,< 20,16,"0,08","< 0,08","12,2","0,063","95,4",0
+légumes,"Tomate, crue","8,14","0,029","0,12","0,2","0,066","26,6",256,< 10,"3,22","0,087","0,66","15,5","0,082","22,7",0
+légumes,"Artichaut, cru",52,"0,23","1,19","0,5","0,26","81,2",387,"0,23","60,5","0,49","0,27","11,7","0,11",68,0
+légumes,"Aubergine, crue","8,7","0,081","0,32","0,15","0,24","27,2",235,"0,2","2,5","0,16","0,17","2,1","0,082","24,5",0
+légumes,"Cardon, cru",70,"0,23","0,7","0,095","0,26",23,400,"0,2",170,"0,17","0,19",2,"0,12",68,0
+légumes,"Céleri-rave, cru",40,"0,11","0,28",< 20,"0,2",56,500,< 20,34,"0,33","0,12","2,87","0,2",39,0
+légumes,"Champignon de Paris ou champignon de couche, cru","6,03","0,35","0,31",1,"0,076","96,6",364,"6,47",39,"0,5","0,02","3,09","0,1","34,5",0
+légumes,"Brocoli, cru","45,9","0,059","0,76","0,8","0,4","76,5",357,"0,6",19,"0,4","1,04",106,"0,17",153,0
+légumes,"Chou de Bruxelles, cru","32,3","0,062","1,15","0,25","0,3","76,4",436,"1,1","16,5","0,43","0,89",103,"0,25","95,5",0
+légumes,"Épinard, cru",114,"0,1","3,61","3,4","1,3","45,2",504,"0,1","66,7","0,82","2,47","41,1","0,21",207,0
+légumes,"Haricot vert, cru","48,5","0,063","1,02","0,8","0,23","38,5",224,"0,3","3,85","0,32","0,36","13,6","0,12","48,5",0
+légumes,"Navet, pelé, cru",40,"0,063","0,4","0,5","0,1","38,5",237,"1,25",42,"0,25","0,03","18,5","0,085","17,5",0
+légumes,"Chou-rave, cru",24,"0,13","0,4","0,71","0,14",46,350,"0,47",20,"0,03","0,48","55,1","0,15",16,0
+légumes,"Chou vert, cru","96,2","0,049","0,93","0,3","0,17","32,7",231,"1,86","25,8","0,22","0,16",69,"0,15","67,9",0
+légumes,"Haricot vert, surgelé, cru","51,5","0,063","0,85","0,8","0,29","40,8",186,"0,3","3,86","0,31","0,24",18,"0,068","39,5",0
+légumes,"Petits pois, crus","27,5","0,14","1,64","0,15","0,4",119,272,"1,02","3,5",1,"0,075","41,5","0,16",45,0
+légumes,"Asperge, pelée, crue",22,"0,12","1,32","0,15","0,16",52,202,1,"4,2","0,49","0,72","8,8","0,076",101,0
+légumes,"Chou-fleur, surgelé, cru","21,7","0,031","0,51","0,3","0,2","41,6",193,"0,8","20,3","0,17","0,07","51,9","0,12",64,0
+légumes,"Épinard, surgelé, cru",159,"0,12","2,28","3,4","0,53","47,7",398,"0,1","46,5","0,49","2,9","21,4","0,18",183,0
+légumes,"Petits pois, surgelés, crus","27,3","0,15","1,53","0,15","0,35","86,9",158,"1,02","21,7","0,86","0,025","20,8","0,08",87,0
+légumes,"Poivron vert, cru","6,2","0,04","0,22",< 20,"0,07",17,160,< 20,< 5,"0,11","0,28","26,9","0,21","55,1",0
+légumes,"Poivron rouge, cru","4,8","0,04","0,21",< 20,"0,08",19,180,< 20,< 5,"0,14","3,45",121,"0,31","81,8",0
+légumes,"Radis noir, cru",39,"0,01","0,23",< 20,"0,06",32,300,< 20,23,"0,15","< 0,08","9,58","0,077","17,3",-
+légumes,"Scarole, crue",52,"0,099","0,83","0,4","0,42",28,314,"0,6",22,"0,79",traces,"6,5","0,02",142,0
+légumes,"Betterave rouge, crue","22,1","0,098","0,7","0,5","0,46","38,1",328,"0,2","60,5","0,54","0,06","6,45","0,059",100,0
+légumes,"Échalote, crue","9,5","0,07","0,12",< 20,"0,08",46,220,< 20,5,"0,2","< 0,08",8,"0,1","10,2",0
+légumes,"Mâche, crue",41,"0,1","0,4",< 20,"0,28",30,330,< 20,< 5,"0,14","0,22","2,38","0,096","45,5",0
+légumes,"Légumes, mélange surgelé, crus",33,"0,093","0,98",< 5,"0,24",59,212,-,39,"0,45",-,"13,7","0,096",29,"< 0,08"
+légumes,"Champignon, chanterelle ou girolle, crue","8,33","0,39","3,52","3,3","0,28","53,5",449,"0,9",5,"0,84","0,06","5,5","0,042",2,0
+légumes,"Champignon, morille, crue",43,"0,63","1,2",-,"0,59",194,411,-,21,"2,03","0,05",5,"0,14",9,-
+légumes,"Champignon, truffe noire, crue",24,-,"3,5",-,-,62,447,-,66,"3,8","0,12",1,"0,18",44,-
+légumes,"Maïs doux, en épis, surgelé, cru","4,18","0,15","0,59","0,5","0,25",108,276,4,4,"1,05","0,37","6,9","0,18","36,5",0
+légumes,"Oseille, crue",44,"0,13","2,4","0,4","0,35",63,390,"0,9",4,"0,2",-,48,"0,12",13,0
+légumes,"Champignon, pleurote, crue",5,"0,24","1,17",-,"0,11",120,420,-,"13,5","0,77",0,4,"0,11",38,0
+légumes,"Chou blanc, cru",59,"0,02","0,3",< 20,"0,1",33,240,20,13,"0,16","< 0,08","8,88","0,17","69,6",0
+légumes,"Tomate verte, crue",13,"0,09","0,51",-,"0,1",28,204,-,13,"0,07","0,38","23,4","0,081",9,0
+légumes,"Batavia, crue",26,"0,04","0,39",< 20,"0,28",17,200,< 20,6,"0,16","< 0,08","4,38","0,051","65,6",-
+légumes,"Haricot de Lima, cru",34,"0,32","3,14",-,"1,22",136,467,-,8,"0,78","0,32","23,4","0,2",34,0
+légumes,"Courge musquée, pulpe, crue","18,3",-,"0,43","0,5",-,"18,3",235,-,-,-,-,"4,6",-,-,-
+légumes,"Potimarron, pulpe, cru","18,5","0,029","0,27","0,15","0,038",33,243,"< 3,35","29,7","0,11","0,1",5,"0,05",36,0
+légumes,"Courge hokkaïdo, pulpe, crue","24,7",-,"0,4",-,-,"32,8",436,-,-,-,-,"13,9",-,-,-
+légumes,"Courge melonnette, pulpe, crue","18,3",-,"0,48",-,-,"23,5",359,-,-,-,-,"9,7",-,-,-
+légumes,"Courge doubeurre (butternut), pulpe, crue",48,"0,072","0,7",-,"0,2",33,352,-,4,"0,15","1,44",21,"0,15",27,0
+légumes,"Courge, crue","28,5","0,061","0,6","0,15","0,17","30,5",312,"0,24","4,5","0,26","0,12","14,7","0,13",34,0
+légumes,"Courge spaghetti, pulpe, crue",23,"0,037","0,31",-,"0,13",12,108,-,17,"0,19","0,13","2,1","0,1",12,0
+légumes,"Piment, cru",14,"0,15","1,12",-,"0,21","55,3",331,-,8,"0,28","0,69",155,"0,39",23,0
+légumes,"Champignon, oronge vraie, crue",17,-,"1,1",-,-,89,320,-,5,"0,4","0,12",3,"0,18",44,-
+légumes,"Champignon, cèpe, cru",23,"0,23",1,-,"0,17",129,361,-,5,"0,4","0,04",3,"0,18",44,-
+légumes,"Champignon, rosé des prés, cru",10,-,"1,2",-,-,102,320,-,5,"0,4","0,12",4,"0,18",44,-
+légumes,"Chicorée rouge, crue",36,-,"0,3",-,-,30,180,-,7,"0,2","0,57",10,"0,07",13,-
+légumes,"Chicorée verte, crue","82,5","0,06","4,15",-,"0,3",45,498,-,"16,5","0,32","0,57",46,"0,02",29,-
+légumes,"Citrouille, pulpe, crue",21,"0,13","0,8",-,"0,13",44,340,-,1,"0,32","1,06",9,"0,061",16,0
+légumes,"Chou chinois ou pak-choi ou pé-tsai, cru","86,4","0,021","0,68","0,3","0,17","37,8",249,"0,29",51,"0,17","0,11","40,3","0,19","73,6",0
+légumes,"Poivron jaune, cru","8,6","0,07","0,21",< 20,"0,11",23,220,< 20,< 5,"0,23","1,76",121,"0,079","43,3",0
+légumes,"Laitue romaine, crue",33,"0,048","0,97","1,25","0,16",30,247,1,8,"0,23","0,13",14,"0,074",136,0
+légumes,"Tomate cerise, crue","6,6","0,05","0,37",< 20,"0,16",31,330,< 20,< 5,"0,18","0,4","21,8","0,096","17,6",0
+légumes,"Pois mange-tout ou pois gourmand, cru","40,7","0,079","2,08",-,"0,24","56,8",200,-,4,"0,27","0,39",60,"0,16",42,0
+légumes,"Panais, cru","45,5","0,13","0,7","0,25","0,48","82,5",505,"0,2",8,"0,72","1,9","11,5","0,1",67,0
+légumes,"Haricot mungo germé ou pousse de ""soja"", cru",16,"0,1","0,44",< 20,"0,12",43,120,< 50,"17,1","0,32","0,095","4,13","0,06","61,3",0
+légumes,"Tomate côtelée ou coeur de boeuf, crue","7,2","0,03","0,14",< 20,"0,12",19,210,< 20,< 5,"0,09","0,36","11,7","0,057","65,4",-
+légumes,"Haricot beurre, cru",41,"0,07","1,07","0,6","0,21",38,209,-,6,"0,32","0,45","18,7","0,087","68,5",0
+légumes,"Salsifis noir, ou scorsonère d'Espagne, cru","24,1","0,12","0,7","0,2",-,94,387,-,"4,5",-,"0,8",3,"0,07",-,0
+légumes,"Bambou, pousse, crue","15,5","0,19","0,4",-,"0,26","54,5",517,-,4,"1,1",1,"7,5","0,24",7,0
+légumes,"Cresson alénois, cru","75,5","0,13","1,8","0,9","0,55",76,368,-,"38,5","0,35","2,15",52,"0,27",95,0
+légumes,"Laitue iceberg, crue","17,4","0,029","0,43","0,6","0,19","23,6",179,"0,15","9,48","0,21","0,22","4,72","0,048",48,0
+légumes,"Rutabaga, cru","45,2","0,031","0,35","0,5","0,14","47,8",349,0,11,"0,21","0,3",33,"0,11",24,0
+légumes,"Haricot beurre, surgelé, cru",51,"0,049","0,78","0,4","0,39",32,186,-,"2,5","0,26",-,16,"0,042",15,0
+légumes,"Brocoli, surgelé, cru","48,5","0,036","0,77",-,"0,26","54,5",231,"2,8","21,4","0,41","1,29","62,3","0,18","80,5",0
+légumes,"Chou de Bruxelles, surgelé, cru",34,"0,043","0,82","0,25","0,29","65,5",427,"1,1",14,"0,37","0,34","77,5","0,19","93,5",0
+légumes,"Carotte, surgelée, crue","34,9","0,074","0,41",-,"0,17",33,235,-,51,"0,33","0,57","4,32","0,095",10,0
+légumes,"Concombre, pulpe, cru",16,"0,02","0,14",< 20,"0,11",25,140,< 20,< 5,"0,13","< 0,08","3,52","0,042","7,2",0
+légumes,"Petits pois et carottes, surgelés, crus","29,5","0,089","1,2",-,"0,24",60,194,-,"31,3","0,52",-,"13,6","0,1",36,0
+légumes,"Roquette, crue",160,"0,076","1,46",-,"0,32",52,369,-,27,"0,47","0,43",15,"0,073",97,0
+légumes,"Chou frisé, cru",185,"0,8","1,74","1,4","0,58",83,378,"2,1","36,5","0,59","3,47",145,"0,31",101,0
+légumes,"Champignon de Paris ou champignon de couche, surgelé, cru",10,-,"0,8",-,-,-,-,-,5,-,-,4,-,-,-
+légumes,"Courgette, pulpe et peau, surgelée, crue",20,"0,05","0,64",-,"0,24",28,218,-,"8,36","0,21","0,12","9,32","0,05",10,0
+légumes,"Crosne, surgelé, cru",-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+légumes,"Artichaut, fond, surgelé, cru",-,-,-,-,-,-,-,-,45,-,-,-,-,-,-
+légumes,"Maïs doux, surgelé, cru",4,"0,051","0,68",-,"0,16",87,294,-,5,"0,7","0,09","7,2","0,18",40,0
+légumes,"Navet, surgelé, cru",23,"0,045","0,7",-,"0,071",20,137,-,25,"0,14",-,"4,4","0,048",8,0
+légumes,"Oignon, surgelé, cru","26,5","0,035","0,4",-,"0,1","22,5",133,-,"9,43","0,095","0,045","5,65","0,084",19,0
+légumes,"Poireau, surgelé, cru",63,-,"0,8",-,-,-,-,-,"6,75",-,-,26,-,-,-
+légumes,"Salsifis, surgelé, cru",-,-,-,-,-,-,-,-,16,-,-,-,-,-,-
+légumes,"Oignon rouge, cru",22,"0,05","0,19",< 20,"0,12",29,190,< 20,< 5,"0,21","0,12","4,09","0,049","10,9",-
+légumes,"Oignon jaune, cru",13,"0,04","0,1",< 20,"0,07",28,150,< 20,< 5,"0,1","< 0,08","2,08","0,064",13,-
+légumes,"Légumes pour potages, surgelés, crus",37,-,1,-,-,-,-,-,"16,9",-,-,25,-,-,-
+légumes,"Julienne ou brunoise de légumes, surgelée, crue","43,5",-,"0,55",-,-,-,-,-,"54,5",-,-,9,-,-,-
+légumes,"Légumes pour ratatouille, surgelés",-,-,-,-,-,-,-,-,34,-,-,-,-,-,-
+légumes,"Printanière de légumes, surgelée, crue (haricots verts, carottes, pomme de terre, petits pois, oignons)",-,-,-,-,-,-,-,-,"16,7",-,-,16,-,-,-
+légumes,"Haricot plat, cru",60,-,"0,8",-,-,-,-,-,2,-,-,16,-,-,-
+légumes,"Épinard, jeunes pousses pour salades, cru",110,"0,08","1,8",60,"0,62",32,580,< 20,25,"0,43","0,56","6,04","0,15","78,6",-
+légumes,"Mesclun ou salade, mélange de jeunes pousses",-,-,-,-,-,-,-,-,19,-,-,-,-,-,-
+légumes,"Tomate ronde, crue","6,8","0,02","0,17",< 20,"0,1",20,210,< 20,< 5,"0,08","0,38","16,3","0,07","13,5",-
+légumes,"Asperge, verte, crue","22,4",-,1,-,-,"85,5",267,-,"3,85",-,-,"15,5","0,15",150,0
+légumes,"Chou romanesco ou brocoli à pomme, cru","34,5","0,041","0,92",-,"0,25",62,300,-,"15,5","0,64","0,04","70,6","0,22",57,0
+légumes,"Asperge, blanche ou violette, pelée, crue","16,6",-,-,-,-,"42,5",169,-,"7,7",-,-,18,"0,072",150,0
+légumes,"Salicorne (Salicornia sp.), fraîche","34,3","0,07","4,89",0,"0,7","19,5",119,-,1020,"0,48","0,51",-,-,-,-
+légumes,"Salade sucrine, crue",23,"0,05","0,27",-,"0,12",30,230,< 20,< 5,"0,18","0,11","2,32","0,068","57,2",-
+légumes,"Salade feuille de chêne, crue",33,"0,04","0,82",< 20,"0,19",20,280,< 20,9,"0,18","< 0,08","2,16","0,069","36,7",-
+légumes,"Légumes pour couscous, surgelés, crus","35,6",-,"0,8",-,-,-,-,-,39,-,-,"27,4",-,-,-
+légumes,"Tomate grappe, crue","6,6","0,02","0,18",< 20,"0,12",20,200,< 20,< 5,"0,08","0,45","18,2","0,07",15,-
+légumes,"Salade verte, crue, sans assaisonnement","35,3","0,061","0,64",< 5,"0,22","23,5",260,"3,23","18,3","0,18","0,17","1,95","0,052","55,3",0
+légumes,"Banane plantain, crue",3,"0,081","0,6","2,5",traces,34,499,-,4,"0,14","0,14","18,4","0,3",22,0
+légumes,"Chayote ou christophine ou chouchou, bouillie/cuite à l'eau",13,"0,11","0,22",-,"0,17",29,173,-,1,"0,31",-,8,"0,12",18,0
+légumes,"Artichaut, cuit","42,9","0,082","0,67",< 5,"0,14",73,427,< 10,60,"0,29","0,19","9,1","0,081",89,0
+légumes,"Asperge, bouillie/cuite à l'eau","19,9","0,074","0,74","0,25","0,049","51,5",198,"< 3,35","8,5","0,2","1,35","16,1","0,05",142,0
+légumes,"Aubergine, cuite","20,1","0,058","0,25",1,"0,12",15,123,"< 3,35","5,95","0,098","0,41","1,3","0,086",14,0
+légumes,"Betterave rouge, cuite",24,"0,07","0,29",< 20,"0,31",18,320,< 20,90,"0,29","< 0,08","< 0,5","0,031","12,4",0
+légumes,"Bette ou blette, cuite",56,"0,04","0,35",< 20,"0,16",11,240,< 20,"99,6","0,08","0,41","< 0,5","0,024","43,2",0
+légumes,"Brocoli, cuit","43,3","< 0,1","< 0,1",< 10,"< 0,1",51,125,"< 2,58",39,"< 0,1","0,9","23,9","< 0,05","75,1",0
+légumes,"Carotte, appertisée, égouttée",25,"0,1","0,64",2,"0,45",24,179,"0,85",233,"0,26","0,74","2,7","0,11",9,0
+légumes,"Carotte, cuite","31,5","< 0,1","< 0,1",< 10,"< 0,1",18,"96,4","< 2,97","20,2","< 0,1","0,56",< 1,"< 0,05","23,3",0
+légumes,"Champignon, tout type, appertisé, égoutté","18,9","0,15","0,79",2,"0,035",66,129,"< 2,2",425,"0,51","0,01",0,"0,061",12,0
+légumes,"Chou de Bruxelles, cuit","36,2","< 0,1","< 0,1",< 10,"< 0,1",65,324,-,"9,7","< 0,1","0,43","56,4","0,06",113,0
+légumes,"Chou vert, cuit","69,7","0,098","0,28","1,45","0,18",33,190,"3,56",39,"0,22","0,14","27,3","0,13",38,0
+légumes,"Chou-fleur, cuit","19,2","0,05","0,31",< 5,"0,12",34,238,< 10,< 39,"0,22","0,07","9,7","< 0,05","78,8",0
+légumes,"Coeur de palmier, appertisé, égoutté",58,"0,13","3,13","0,5","1,39",65,177,-,316,"1,15",-,"7,9","0,022",39,0
+légumes,"Courgette, pulpe et peau, cuite","19,3","0,085","0,32",< 5,"0,089",65,238,< 10,39,"0,22","0,12","2,9","< 0,05","32,8",0
+légumes,"Céleri branche, cuit","53,3","0,059","0,42","0,3","0,11",25,284,"< 2,58",91,"0,077","0,35","6,1","0,086",33,0
+légumes,"Céleri-rave, cuit","52,4","0,12","0,32",< 10,"0,27",58,306,-,"58,2","0,24","0,22","2,7","0,07","67,4",0
+légumes,"Épinard, cuit",140,"0,1","2,14",< 10,"0,43",40,396,< 10,"27,6","0,65","2,4","2,1","0,06",125,0
+légumes,"Haricot mungo germé ou pousse de ""soja"", appertisé, égoutté","13,4","0,047","0,26","2,55","0,039",26,"31,5",< 10,141,"0,11","0,065","0,65","0,031",26,0
+légumes,"Haricot vert, cuit","55,3","0,081","0,6",< 5,"0,19",36,174,< 10,"5,8","0,2","0,45",5,"< 0,05",33,0
+légumes,"Navet, cuit","37,3","0,045","0,11",< 10,"0,045",26,237,< 10,29,"0,099","0,02","5,6","0,06",9,0
+légumes,"Oignon, cuit","29,2","0,077","0,21",1,"0,12",44,220,< 10,"8,4","0,19","0,015","2,1","0,09",21,0
+légumes,"Petits pois, appertisés, égouttés","20,6","0,079","1,29","0,9","0,17","73,1","71,5","< 3,35",257,"0,42","0,21","6,9","0,053","26,5",0
+légumes,"Petits pois, cuits","32,7","0,14","1,17",< 5,"0,32",96,135,< 10,"7,1","0,8","< 0,1","1,8","< 0,05","65,6",0
+légumes,"Poireau, cuit","25,6","0,12","0,34",< 10,"0,075",20,151,< 10,"5,8","0,1","0,5","1,3","0,06","21,2",0
+légumes,"Potiron, appertisé, égoutté",26,"0,11","1,39","0,7","0,15",35,206,-,241,"0,17","1,06","4,2","0,056",12,0
+légumes,"Salsifis, cuit",47,"0,07","0,55","0,2","0,21",56,283,-,16,"0,3","0,19","4,6","0,22",15,0
+légumes,"Tomate, pelée, appertisée, égouttée","21,1","0,06","0,77","0,2","0,073",18,190,"< 2,2",112,"0,11","0,67",12,"0,11",16,0
+légumes,"Maïs doux, en épis, cuit",3,"0,049","0,45",1,"0,17",77,218,traces,1,"0,62","0,09","5,5","0,14",23,0
+légumes,"Macédoine de légumes, appertisée, égouttée","40,7","0,072","1,05","0,2","0,15",42,291,"< 2,2",243,"0,28","0,29",5,"0,079",24,0
+légumes,"Épinard, appertisé, égoutté",127,"0,18","2,3","2,79","0,6",44,346,"1,35",322,"0,46","1,25","14,3","0,1",98,0
+légumes,"Haricot vert, appertisé, égoutté","42,7","0,13","0,81","1,6","0,094","25,3",94,"0,9",261,"0,23","0,14","3,1","0,03","20,5",0
+légumes,"Haricot beurre, appertisé, égoutté",25,"0,044","0,9","0,6","0,2",19,104,"0,43",265,"0,3","0,29","4,1","0,034",66,0
+légumes,"Maïs doux, appertisé, égoutté","3,51","0,036","0,35","0,5","0,11","53,8",224,< 10,236,"0,39","0,29","3,55","0,13",75,0
+légumes,"Artichaut, appertisé, égoutté",-,-,-,-,-,-,-,-,320,-,-,-,-,-,-
+légumes,"Tomate, concentré, appertisé","45,6","< 0,1","1,2","4,4","< 0,1",103,1010,"0,4",108,"< 0,1","5,7","2,6","0,09",58,0
+légumes,"Haricot vert, surgelé, cuit",51,"0,059","0,68","0,4","0,29",29,159,"0,4","1,5","0,24","0,04","11,6","0,06",23,0
+légumes,"Artichaut, cuit à la vapeur sous pression",42,"0,05","0,7",< 20,"0,17",56,480,< 20,27,"0,27","< 0,08","< 0,5","0,086","52,6",-
+légumes,"Asperge, appertisée, égouttée","15,8","0,076","1,09","0,7","0,16",35,142,"0,2",291,"0,42","0,74","18,4","0,11",72,0
+légumes,"Chou de Bruxelles, appertisé, égoutté","26,3","0,03","0,7",1,"0,1",53,252,"1,5",222,"0,2","0,69",18,-,-,0
+légumes,"Céleri branche, appertisé, égoutté","29,2","0,04",-,"0,2","0,11",-,281,1,213,"0,14",-,-,-,-,-
+légumes,"Champignon de Paris ou champignon de couche, appertisé, égoutté","22,2","0,17","0,9",< 5,"0,027",47,"72,1",< 1,251,"0,44",0,"6,5","0,025","29,6",0
+légumes,"Salsifis, appertisé, égoutté",21,-,-,"0,2",-,-,173,"0,6",235,-,-,-,-,-,-
+légumes,"Poivron vert, cuit",9,"0,065","0,46",1,"0,12",18,166,traces,2,"0,12","0,5","74,4","0,23",16,0
+légumes,"Poivron rouge, cuit",9,"0,01",-,1,"0,1",26,180,traces,-,"0,2","0,9",81,"0,31",11,-
+légumes,"Petits pois et carottes, appertisés, égouttés",23,"0,1","0,75",2,"0,36",46,100,-,244,"0,58",traces,"6,6","0,088",18,0
+légumes,"Chou-rave, bouilli/cuit à l'eau",25,"0,13","0,4",-,"0,14",45,340,-,21,"0,31","0,52",54,"0,15",12,0
+légumes,"Chou rouge, bouilli/cuit à l'eau","54,6","0,034","0,66","1,35","0,16",33,262,"< 2,97",28,"0,14","0,12","34,4","0,23",24,0
+légumes,"Potiron, cuit",13,"0,04","0,18",< 20,"0,04",21,230,< 20,< 5,"0,1","0,24","0,84","0,058",< 5,0
+légumes,"Champignon de Paris ou champignon de couche, bouilli/cuit à l'eau",6,"0,5","1,74",-,"0,12",87,356,"11,9",2,"0,87","0,01",4,"0,095",18,0
+légumes,"Fenouil, bouilli/cuit à l'eau",43,"0,16","0,2",10,"0,14","17,3",270,"< 3,6","58,1","0,18","0,32","1,6","0,12","31,8",0
+légumes,"Épinard, surgelé, cuit",153,"0,16","1,96",-,"0,72",50,302,-,97,"0,49","3,54","2,2","0,14",121,0
+légumes,"Chou-fleur, surgelé, cuit",17,"0,024","0,41","0,1","0,15",24,139,traces,18,"0,13","0,06","31,3","0,088",41,0
+légumes,"Petits pois, surgelés, cuits",24,"0,11","1,52",-,"0,28",77,110,1,72,"0,67","0,03","9,9","0,11",59,0
+légumes,"Champignon de Paris ou champignon de couche, sauté/poêlé, sans matière grasse","2,7","0,39","0,31",< 20,"0,05",140,540,< 20,11,"0,81","< 0,08","< 0,5","0,029","14,3",0
+légumes,"Panais, cuit",37,"0,14","0,58",-,"0,29",69,367,-,10,"0,26",1,13,"0,093",58,0
+légumes,Fondue de poireau,-,-,-,-,-,-,-,-,200,-,-,-,-,-,-
+légumes,"Courge doubeurre (butternut), pulpe, cuite",19,"0,036","0,58",-,"0,17",14,133,-,2,"0,12",-,"3,5","0,069",16,0
+légumes,"Courge spaghetti, pulpe, cuite",21,"0,035","0,34",-,"0,11",14,117,-,18,"0,2","0,12","3,5","0,099",8,0
+légumes,"Artichaut, coeur, appertisé, égoutté",25,"0,07","0,4",< 20,"0,13",34,150,< 20,310,"0,28","1,12","12,2","0,026","54,3",-
+légumes,"Artichaut, fond, appertisé, égoutté",36,"0,06","0,36",< 20,"0,05",26,140,< 20,293,"0,2","0,42",18,"0,22","53,6",-
+légumes,"Tétragone cornue, cuite",48,"0,077","0,66",-,"0,53",22,102,-,107,"0,31","1,23",16,"0,24",8,0
+légumes,"Rutabaga, cuit",18,"0,029","0,18",-,"0,097",41,216,-,5,"0,12","0,24","18,8","0,1",15,0
+légumes,"Tomate, pulpe, appertisée",20,"0,08","0,39",< 20,"0,08",20,260,< 20,"27,1","0,09","1,3","10,5","0,083","30,2",0
+légumes,"Tomate, purée, appertisée","19,9","0,15","0,6","2,2","0,16","41,9",798,"0,4",239,"0,2","2,3",9,"0,18",72,0
+légumes,"Bambou, pousses, appertisées, égouttées",17,"0,098","0,24",-,"0,14","26,8",196,-,"74,1","0,56","0,63","1,1","0,12","2,5",0
+légumes,"Brocoli, surgelé, cuit",51,"0,043","0,61",-,"0,33",55,180,-,24,"0,3","1,32","40,1","0,13",30,0
+légumes,"Chou de Bruxelles, surgelé, cuit",26,"0,034","0,48",-,"0,21",56,290,-,15,"0,24","0,51","45,7","0,29",101,0
+légumes,"Carotte, surgelée, cuite",35,"0,082","0,53",-,"0,17",31,192,-,59,"0,35","1,01","2,3","0,084",11,0
+légumes,"Champignon, lentin comestible ou shiitaké, cuit",3,"0,9","0,44",-,"0,2",29,117,-,4,"1,33",0,"0,3","0,16",21,0
+légumes,"Petits pois et carottes, surgelés, cuits",23,"0,076","0,94",-,"0,2",49,158,-,68,"0,45","0,52","8,1","0,087",26,0
+légumes,"Pois mange-tout ou pois gourmand, bouilli/cuit à l'eau",35,"0,08","0,46",< 20,"0,18",40,100,< 20,5,"0,28","0,59","20,6","0,022",56,0
+légumes,"Chou frisé, cuit",72,"0,16","0,9",-,"0,42",28,228,-,23,"0,24","0,85",41,"0,14",13,0
+légumes,"Chou chinois (pak-choi ou pé-tsai), cuit","62,5","0,024","0,67",-,"0,15",34,298,-,"21,5","0,18","0,09","20,9","0,17",47,0
+légumes,"Cardon, cuit",72,-,"0,73",-,"0,13",23,392,-,176,"0,18",-,"1,7","0,042",22,0
+légumes,"Tomate, pulpe et peau, bouillie/cuite à l'eau",11,"0,075","0,68","1,5","0,11",28,218,"0,18",11,"0,14","0,56","22,8","0,079",13,0
+légumes,"Pois mange-tout ou pois gourmands, cuits",59,"0,09","2,4",-,"0,28",58,217,-,5,"0,49","0,47",22,"0,17",35,0
+légumes,"Échalote, cuite",28,"0,11","0,34",< 20,"0,15",76,400,< 50,"12,5","0,32","0,12","2,25","0,19","12,9",-
+légumes,"Haricots verts, purée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+légumes,"Légumes (3-4 sortes en mélange), purée",47,"0,12","0,67",< 20,"0,18",42,260,< 20,252,"0,33","0,43","< 0,5","0,048",19,"0,019"
+légumes,"Brocoli, purée",87,-,"0,9",-,-,-,-,-,"7,93",-,-,90,-,-,-
+légumes,"Tomate, coulis, appertisé (purée de tomates mi-réduite à 11%)",-,-,-,-,-,-,-,-,350,-,-,-,-,-,-
+légumes,"Carotte, purée",30,"0,06","0,32",< 20,"0,1",25,230,< 20,52,"0,23","1,16","< 0,5","0,056","14,3",-
+légumes,"Courgette, purée",-,-,-,-,-,-,-,-,220,-,-,-,-,-,-
+légumes,"Tomate, double concentré, appertisé",-,-,-,-,-,-,-,-,329,-,-,-,-,-,-
+légumes,"Macédoine de légumes, surgelée, pré-cuite (à recuire)",-,-,-,-,-,-,-,-,"12,7",-,-,-,-,-,-
+légumes,"Poivron rouge, appertisé, égoutté",25,"0,098","0,63",-,"0,12",19,156,-,440,"0,15","1,65",109,"0,23",34,0
+légumes,"Asperge blanche, bouillie/cuite à l'eau",15,"0,09","0,26",< 20,"0,07",29,120,< 20,5,"0,3","0,39","5,16","0,029","66,8",-
+légumes,"Céleri-rave, purée",50,-,"0,5",-,-,-,-,-,"54,5",-,-,"8,3",-,-,-
+légumes,"Petits pois, purée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+légumes,"Épinard, purée",-,-,-,-,-,-,-,-,289,-,-,-,-,94,-
+légumes,"Tomate, pulpe et peau, rôtie/cuite au four",10,"0,05","0,25",< 20,"0,23",30,300,< 20,< 5,"0,15","0,98","14,5","0,1",30,-
+légumes,"Chou romanesco ou brocoli à pomme, cuit",32,"0,05","0,53",< 20,"0,19",55,260,< 20,< 5,"0,32","0,74","15,1","0,13","49,1",-
+légumes,"Potimarron, pulpe, cuit à l'étouffée",18,"0,08","0,24",< 20,"0,05",33,430,< 20,< 5,"0,27","1,25","10,9","0,15","24,7",-
+légumes,"Courge musquée, pulpe, cuite",17,"0,05","0,15",< 20,"0,04",17,340,< 20,< 5,"0,13","0,94","2,28","0,064","30,5",-
+légumes,"Carotte, purée cuisinée à la crème, préemballée",30,"0,04","0,19",< 20,"0,08",21,190,< 20,212,"0,18",1,"< 0,5","0,051","11,7",-
+légumes,"Asperge verte, bouillie/cuite à l'eau",21,"0,11","0,64",< 20,"0,13",49,220,< 20,< 5,"0,49","1,5","4,73","0,046","69,9",-
+légumes,"Aubergine, pulpe et peau, rôtie/cuite au four",13,"0,08","0,59",< 20,"0,15",31,310,< 20,< 5,"0,14","< 0,08","< 0,5","0,053",< 5,-
+légumes,"Bette ou blette, côte et feuille, bouillie/cuite à l'eau",60,"0,04","0,52",< 20,"0,34",18,160,< 20,77,"0,11","< 0,08","< 0,5","0,098","18,3",-
+légumes,"Brocoli, bouilli/cuit à l'eau, croquant",42,"0,11","0,41",< 20,"0,18",44,110,< 20,17,"0,23","2,42","22,7","0,06","67,1",-
+légumes,"Brocoli, bouilli/cuit à l'eau, fondant",43,"0,15","0,33",< 20,"0,17",39,90,< 20,13,"0,18","1,69","18,1","0,048","24,7",-
+légumes,"Brocoli, cuit à la vapeur",36,"0,04","0,58",< 20,"0,28",72,340,< 20,16,"0,53","2,28","20,7","0,16","81,7",-
+légumes,"Carotte, bouillie/cuite à l'eau, croquante",27,"0,07","0,19",< 20,"0,17",16,170,< 20,45,"0,22","0,8","1,71","0,047","19,3",-
+légumes,"Carotte, bouillie/cuite à l'eau, fondante",28,"0,09","0,19",< 20,"0,14",17,140,< 20,46,"0,22","0,78","0,52","0,051","17,7",-
+légumes,"Carotte, cuite à la vapeur",26,"0,04","0,22",< 20,"0,18",19,240,< 20,45,"0,21","0,84","1,28","0,066","21,3",-
+légumes,"Chou blanc, bouilli/cuit à l'eau",42,"0,07","0,19",< 20,"0,08",19,120,< 20,7,"0,07","0,64","13,3","0,048","9,55",-
+légumes,"Chou de Bruxelles, bouilli/cuit à l'eau",35,"0,13","0,51",< 20,"0,2",62,410,< 20,9,"0,31","0,44","55,4","0,11","49,3",-
+légumes,"Chou rouge, cuit à l'étouffée",44,"0,02","0,29",< 20,"0,16",26,250,< 20,13,"0,15","< 0,08","26,2","0,11","45,1",-
+légumes,"Chou vert, bouilli/cuit à l'eau",48,"0,11","0,34",< 20,"0,11",29,130,< 20,5,"0,13","< 0,08",12,"0,052","12,4",-
+légumes,"Chou-fleur, cuit à la vapeur",26,"0,03","0,38",< 20,"0,16",46,300,< 20,5,"0,28","< 0,08","21,4","0,13","54,3",-
+légumes,"Courgette, pulpe et peau, rôtie/cuite au four",24,"0,07","0,4",< 20,"0,14",41,300,< 20,< 5,"0,27","0,13","< 0,5","0,038","16,4",-
+légumes,"Céleri branche, cuit à l'étouffée",31,"0,04","0,12",< 20,"0,07",24,340,< 20,138,"0,08","1,58","< 0,5","0,034","7,98",-
+légumes,"Céleri rave, bouilli/cuit à l'eau",41,"0,11","0,27",< 20,"0,16",38,300,< 20,37,"0,17","1,13","0,87","0,074","84,5",-
+légumes,"Endive, rôtie/cuite au four",27,"0,07","0,23",< 20,"0,09",27,180,< 20,< 5,"0,18","< 0,08","< 0,5","0,028","5,89",-
+légumes,"Fenouil, cuit à l'étouffée",37,"0,04","0,12",< 20,"0,07",16,210,< 20,11,"0,08","< 0,08","< 0,5","0,019","16,8",-
+légumes,"Haricot beurre, bouilli/cuit à l'eau",56,"0,13","0,99",< 20,"0,35",43,210,< 20,< 5,"0,34","0,31","7,57","< 0,01","39,7",-
+légumes,"Haricot vert, bouilli/cuit à l'eau",51,"0,07","0,54",< 20,"0,19",38,260,< 20,< 5,"0,22","0,1","1,16","0,031","49,5",-
+légumes,"Navet, bouilli/cuit à l'eau",32,"0,06","0,08",< 20,"0,04",20,170,< 20,10,"0,06","< 0,08","7,25","0,029","17,1",-
+légumes,"Oignon blanc ou jaune, sauté/poêlé sans matière grasse",32,"0,08","0,24",< 20,"0,13",35,270,< 20,< 5,"0,21","0,11","2,31","0,066","6,75",-
+légumes,"Oignon nouveau ou oignon frais ou cébette, sauté/poêlé sans matière grasse",55,"0,03","0,85",< 20,"0,36",26,260,< 20,< 5,"0,21","< 0,08","7,38","0,074","40,5",-
+légumes,"Oignon rouge, sauté/poêlé sans matière grasse",26,"0,07","0,26",< 20,"0,15",33,220,< 20,< 5,"0,26","< 0,08","5,68","0,062","33,3",-
+légumes,"Panais, cuit à l'étouffée",44,"0,14","0,37",< 20,"0,16",74,510,< 20,7,"0,35","1,83","7,92","0,079","80,1",-
+légumes,"Petits pois, bouillis/cuits à l'eau",38,"0,14","1,2",< 20,"0,29",100,190,< 20,9,"0,72","< 0,08","11,4","0,044","38,2",-
+légumes,"Poireau, bouilli/cuit à l'eau",35,"0,08","0,45",< 20,"0,11",26,120,< 20,< 5,"0,14","0,75","3,79","0,055","22,8",-
+légumes,"Poivron jaune, sauté/poêlé sans matière grasse","7,3","0,06","0,23",< 20,"0,09",23,220,< 20,< 5,"0,14","2,12",126,"0,24","57,1",-
+légumes,"Poivron rouge, sauté/poêlé sans matière grasse",7,"0,06","0,27",< 20,"0,11",25,240,< 20,< 5,"0,14","3,81",144,"0,31","69,7",-
+légumes,"Poivron vert, sauté/poêlé sans matière grasse","6,7","0,05","0,21",< 20,"0,08",20,200,< 20,< 5,"0,12","0,76","64,6","0,26","27,8",-
+légumes,"Potimarron, pulpe, bouilli/cuit à l'eau",18,"0,08","0,19",< 20,"0,06",27,330,< 20,< 5,"0,24","1,52","8,65","0,06","9,28",-
+légumes,"Potiron, rôti/cuit au four",31,"0,05","0,11",< 20,"0,02",14,330,< 20,< 5,"0,1","0,5","< 0,5","0,02",10,-
+légumes,"Salsifis, bouilli/cuit à l'eau",38,"0,2","0,56",< 20,"0,21",88,170,< 20,8,"0,49","1,9","0,74","0,042","39,6",-
+légumes,"Tomate, rôtie/cuite au four",12,"0,03","0,22",< 20,"0,18",29,310,< 20,< 5,"0,11","1,09","14,9","0,066","20,1",-
+légumes,"Échalote, sautée/poêlée sans matière grasse",22,"0,09","0,25",< 20,"0,12",48,270,< 20,< 5,"0,27","< 0,08","0,84","0,1",-,-
+légumes,"Épinard, bouilli/cuit à l'eau",240,"0,14","1,3",< 20,"0,81",30,160,< 20,12,"0,79","3,98","< 0,5","0,038","62,7",-
+légumes,"Légumes pour couscous, cuits",39,"0,1","0,7","1,2","0,2",38,208,"0,6",45,"0,3","0,38",18,"0,12",26,0
+légumes,Légume cuit (aliment moyen),"30,3","0,097","0,46","5,51","0,16","51,8",261,"6,06","18,6","0,31","0,44","8,84","0,16","28,9",0
+légumes,"Crosne, cuit",20,"0,21","0,37",< 20,"0,09",58,310,< 20,5,"0,24","< 0,08",-,"0,068","32,3",-
+légumes,"Gombo, fruit, cuit",77,"0,085","0,28",-,"0,29",32,135,-,6,"0,43","0,27","16,3","0,19",46,0
+légumes,"Carotte, déshydratée",212,"0,37","3,93",-,"1,12",346,2540,-,275,"1,57","5,45","14,6","1,04",55,0
+légumes,"Oignon, séché",257,"0,42","1,55",-,"1,39",303,1620,-,170,"1,89","0,18",75,"1,6",166,0
+légumes,"Tomate, séchée",110,"1,42","9,09",-,"1,85",356,3430,"5,5",247,"1,99","0,01","39,2","0,33",68,0
+légumes,"Champignon noir, séché",-,-,-,-,-,-,-,-,"37,8",-,-,-,-,-,-
+légumes,"Champignon, lentin comestible ou shiitaké, séché",11,"5,17","1,72",-,"1,18",294,1530,-,13,"7,66",0,"3,5","0,97",163,0
+légumes,"Tomate, séchée, à l'huile",47,"0,47","2,68",-,"0,47",139,1570,-,1020,"0,78",-,102,"0,32",23,0
+légumes,"Banane jaune, pulpe, cuite à la vapeur, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"6,07",-,-,-
+légumes,"Chips de giraumon (variété locale), pulpe, prélevé à la Martinique",-,-,-,-,-,-,2400,-,-,-,-,-,-,-,-
+légumes,"Chips de giraumon (variété phoenix), pulpe, prélevé à la Martinique",-,-,-,-,-,-,2580,-,-,-,-,-,-,-,-
+légumes,"Chou dur ou chou caraïbe, pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"19,3",-,-,-
+légumes,"Christophine à peau blanche, pulpe, cuite à la vapeur, prélevée à la Martinique",-,"0,063",-,-,-,-,192,-,-,-,-,"7,4",-,"20,8",-
+légumes,"Christophine à peau verte, pulpe, cuite à la vapeur, prélevée à la Martinique",-,"0,0019",-,-,-,-,198,-,-,-,-,"12,5",-,"17,8",-
+légumes,"Christophine blanche, pulpe, appertisée, non égouttée, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"0,23",-,"23,4",-
+légumes,"Christophine, pulpe, cuite à la vapeur, surgelée, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"6,1",-,"14,9",-
+légumes,"Concombre, pulpe avec graines, cru, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"0,1",-,-,-
+légumes,"Concombre, pulpe, cru, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"0,3",-,-,-
+légumes,"Cresson, feuille, cru, prélevé à la Martinique","0,059",-,"1,31",-,"0,41",-,432,-,-,-,-,"2,67",-,"57,2",-
+légumes,"Dachine, pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"4,07",-,-,-
+légumes,"Farine de pulpe de patate douce, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,0,-,-,-
+légumes,"Fruit à pain, pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"8,17",-,-,-
+légumes,"Giraumon (variété locale), pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,321,-,-,-,-,-,-,"20,5",-
+légumes,"Giraumon (variété locale), pulpe, cuit à la vapeur, surgelé, prélevé à la Martinique",-,-,-,-,-,-,347,-,-,-,-,-,-,-,-
+légumes,"Giraumon (variété locale), pulpe, râpé, cru, prélevé à la Martinique",-,-,-,-,-,-,319,-,-,-,-,-,-,-,-
+légumes,"Giraumon (variété phoenix), pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,442,-,-,-,-,-,-,"31,7",-
+légumes,"Giraumon (variété phoenix), pulpe, râpé, cru, prélevé à la Martinique",-,-,-,-,-,-,353,-,-,-,-,-,-,-,-
+légumes,"Giraumon (variété phoenix), pulpe, surgelé, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,454,-,-,-,-,-,-,-,-
+légumes,"Gombo, entier, appertisé, non égoutté, prélevé à la Martinique",-,-,-,-,"0,17",-,-,-,-,-,-,-,-,"10,3",-
+légumes,"Gombo, entier, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,"0,52",-,374,-,-,-,-,3,-,107,-
+légumes,"Gombo, pulpe, blanchi, surgelé, prélevé à la Martinique",-,-,-,-,"0,67",-,-,-,-,-,-,-,-,"69,8",-
+légumes,"Igname cousse-couche, pulpe, cuit à la vapeur, prélevé à la Martinique",-,0,-,-,"0,09",-,198,-,-,-,"0,14","0,87",-,-,-
+légumes,"Igname jaune, pulpe, cuit à la vapeur, prélevé à la Martinique",-,"0,05",-,-,"0,15",-,349,-,-,-,"0,27","0,81",-,-,-
+légumes,"Igname saint martin, pulpe, cuit à la vapeur, prélevé à la Martinique",-,"0,01",-,-,"0,03",-,"25,1",-,-,-,"0,18",22,-,-,-
+légumes,"Topinambour, pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"9,57",-,-,-
+légumes,"Kamanioc, pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"21,3",-,-,-
+légumes,"Massissi, pulpe, cru, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"73,2",-,-,-
+légumes,"Papaye, pulpe, crue, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"39,3",-,-,-
+légumes,"Papaye, pulpe, cuite à la vapeur, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"25,7",-,-,-
+légumes,"Patate douce, pulpe, blanchie, surgelée, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,4,-,-,-
+légumes,"Patate douce, pulpe, cuite à la vapeur, prélevée à la Martinique",-,"0,26",-,-,"0,026",-,425,-,-,-,"0,24","12,5",-,"92,2",-
+légumes,"Pois d'angole, entier, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+légumes,"Ti nain, pulpe, cuit à la vapeur, prélevé à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"9,23",-,-,-
+légumes,"Tomate, entière, crue, prélevée à la Martinique",-,-,-,-,-,-,-,-,-,-,-,"15,2",-,-,-
+légumes,"Brèdes chou de Chine ou bok choy ou pak choï, tiges et feuilles, cuites à la vapeur, prélevées à La Réunion (Brassica rapa subsp. Chinensis)",88,"0,04","0,93",< 20,"0,25",28,330,< 20,15,"0,28","1,5","9,54","0,073","71,9",-
+légumes,"Chayote ou christophine ou chouchou, pulpe avec pépins, cuite à la vapeur, prélevée à La Réunion (Sechium edule)",14,"0,03","0,46",< 20,"0,14",23,170,< 20,7,"0,1","< 0,08","< 0,5","0,024","16,2",-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,20,"0,02","1,58","2,7","0,11",7,11,"0,3",1,"0,12",0,0,"0,008",4,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"9,48","0,094","0,35",3,"0,15",50,391,"< 2,2","1,43","0,24","0,04","12,8","0,3",9,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"5,83","0,076","0,27",< 5,"0,074","37,2",363,< 10,"20,6","0,15","0,01","2,92","0,34","31,1",0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,27,"0,22","1,2",< 20,"0,35",140,1300,< 20,652,"0,82","12,3","8,26","0,44","31,6",0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,13,"0,06","1,6","2,25","0,2",54,430,1,10,"0,3","0,06",15,"0,36","7,5",0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"14,3","0,079","0,91","1,2","0,11","56,2",418,"22,9","< 0,44","0,35","0,055","18,9","0,25",26,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"25,4","0,051","1,26",-,"0,071","28,8",229,"< 3,35","60,6","0,18",-,"5,1","0,19",6,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"25,2","0,1",1,3,"0,18",111,550,"< 2,2",373,"0,58","0,2",8,"0,2",28,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,"96,2",-,-,"14,7",-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,18,"0,15","0,73",< 20,"0,17",46,680,< 20,204,"0,35","0,37","1,97","0,15",26,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,106,"0,47","2,55",39,"0,61",238,1510,"0,5","78,1","1,3","0,03","22,3","1,03",30,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"38,7","0,025","0,19",-,"0,11","52,3",184,-,223,"0,2","0,33","8,63","0,089","7,33","0,11"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"31,1","0,061","0,21",5,"0,066","45,5",260,< 10,"44,9","0,22","0,07","6,1","0,23",8,"0,07"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"36,5","0,062","0,39","5,15","0,082","57,3",270,"0,96","91,5","0,31","0,13","3,2","0,16","4,7","0,091"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"22,2","0,09","0,99",-,"0,23","41,8",138,-,468,"0,68",-,-,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,120,"0,06","0,8",< 20,"0,18",210,180,< 20,527,"0,38","6,6",-,"0,11","15,1","0,39"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"48,5","0,27","2,26","0,5","0,45",223,1130,"0,5",220,"1,05","0,03",59,"0,8",38,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,10,-,"0,6","0,9",-,54,367,-,23,"0,5","0,06",22,"0,44",25,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,17,"0,13","0,7",< 20,"0,13",84,550,< 20,302,"0,43","1,39","1,08","0,14","24,3",-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,15,"0,12","1,08",-,"0,22",70,535,-,10,"0,36","0,04","9,6","0,31",28,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,11,"0,15","0,63",< 20,"0,13",100,570,< 20,77,"0,42","1,28","1,25","0,14",14,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"6,5","0,07","0,31",< 20,"0,1",40,390,< 20,< 5,"0,23","0,1","3,78","0,17","7,89","0,074"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,"0,17","0,7",-,-,-,291,-,-,"0,34",-,"18,9","0,21","53,8",-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,11,"0,11","0,67",< 20,"0,15",81,590,< 20,156,"0,45","7,64","2,38","0,52","40,6",0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"23,8","0,12","0,9",< 5,"0,16",106,684,"< 2,2",29,"0,36","0,44",19,"0,37","32,3","0,04"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,51,"0,12","0,81",< 20,"0,19",81,530,< 20,395,"0,53","2,33","< 0,5","0,26","18,5",-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,27,"0,09","0,61",< 20,"0,14",59,420,< 20,347,"0,39","1,29",-,"0,17","12,4","0,07"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,266,-,-,-,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,21,"0,19","0,98",< 20,"0,25",120,1100,< 20,702,"0,6","15,3","5,07","0,35","27,3",-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,56,"0,25","1,2",< 20,"0,26",210,1300,< 20,487,"0,87","3,32",-,"0,43",-,"0,049"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,18,"0,13","0,55",< 20,"0,11",70,460,< 20,328,"0,35","2,92","< 0,5","0,12","9,13",-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,368,-,-,-,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,66,-,-,6,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,109,-,-,-,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,108,-,-,-,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,20,-,"1,8",-,-,-,-,-,"57,9",-,-,6,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"35,4","0,049","0,26",,"0,086","51,7",238,,140,"0,24","0,17","5,98","0,16","6,68","0,089"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"9,62","0,095","0,43","6,78","0,12","43,7",450,"7,07","48,8","0,24","0,12","5,05","0,24","18,4","0,03"
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"37,5","0,15","0,76","0,2","0,26",47,373,"0,6","39,3","0,25","0,26","2,4","0,19",11,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"32,5","0,13","0,71",3,"0,38",43,353,-,"31,5","0,26","0,83","16,2","0,23",6,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,-,-,-,-,-,-,-,-,225,-,-,-,-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"32,9","< 0,1","0,2",< 10,"< 0,1",64,452,-,"35,9","0,34","0,19","3,2","0,04","44,3",0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,21,"0,13",2,"0,1","0,06","75,2",495,"0,03","3,5","0,11","0,17",5,"0,084","24,5",0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,2,"0,066","0,58",-,-,28,465,-,5,"0,13","0,13","10,9","0,24",26,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,43,"0,17","0,55",-,"0,38",84,591,-,11,"0,23","2,38","4,5","0,28",22,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,18,"0,2","0,72",-,"0,45",76,484,-,15,"0,27","2,93",5,"0,33",19,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,17,"0,18","0,54",-,"0,4",55,816,-,9,"0,24","0,35","17,1","0,29",23,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,14,"0,15","0,52",-,"0,37",49,670,-,8,"0,2","0,34","12,1","0,23",16,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,16,"0,1","0,27",-,"0,38",27,271,-,14,"0,34","0,19","20,6","0,088",27,0
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,"12,1","0,018","0,6",-,"0,038","40,5",-,-,-,"0,35",-,"13,1",-,-,-
+pommes de terre et autres tubercules,pommes de terre et autres tubercules,17,"0,084","0,54",-,"0,06",30,490,-,2,"0,12","0,1",29,"0,1",14,0
+légumineuses,"Haricot coco, bouilli/cuit à l'eau",72,"0,26","2,7",< 20,"0,59",180,480,< 20,9,"1,2","0,1","1,62","0,065","71,4",-
+légumineuses,"Fève, bouillie/cuite à l'eau",37,"0,31","1,5",< 20,"0,31",160,200,< 20,10,1,"0,28","< 0,5","0,037","65,3",0
+légumineuses,"Haricot blanc, bouilli/cuit à l'eau",120,"0,19","1,7",< 20,"0,8",110,260,< 20,"9,3","0,67","< 0,08","< 0,5","0,039","31,1",0
+légumineuses,"Haricot rouge, bouilli/cuit à l'eau",55,"0,27","2,3",< 20,"0,44",150,300,< 20,"8,4","0,94","< 0,08","< 0,5","0,067","78,3",0
+légumineuses,"Lentille, bouillie/cuite à l'eau","26,2","0,24","1,44",3,"0,43",180,222,< 10,2,"0,98","0,11","1,5","0,18",181,0
+légumineuses,"Pois cassé, bouilli/cuit à l'eau","24,7","0,19","2,09",2,"0,28",134,327,"< 2,2","4,5","0,65","0,19","0,85","0,094",119,0
+légumineuses,"Pois chiche, bouilli/cuit à l'eau",72,"0,24","1,3",< 20,"0,86",140,170,< 20,"10,9","1,1","1,22","< 0,5","0,09","84,4",-
+légumineuses,"Haricot flageolet, appertisé, égouttés","63,1","< 0,1","1,3",< 10,"< 0,1",86,281,"< 2,2",293,"< 0,1","0,37",< 1,"0,05",23,0
+légumineuses,"Lentille, cuisinée, appertisée, égouttée",21,"0,12","1,67",3,"0,4","82,7",178,"2,8",230,"0,55","0,19",traces,"0,12",11,0
+légumineuses,"Haricot blanc, appertisé, égoutté",73,"0,23","2,99",3,"0,52",91,454,-,270,"1,12","0,79",0,"0,075",65,0
+légumineuses,"Haricot flageolet, bouilli/cuit à l'eau",120,"0,19","1,7",< 20,"0,8",110,260,< 20,"9,3","0,67","< 0,08","< 0,5","0,039","31,1",traces
+légumineuses,"Haricot rouge, appertisé, égoutté",58,"0,28","1,5",-,"0,38",118,250,-,269,"0,74",-,"0,2",-,23,0
+légumineuses,"Haricot mungo, bouilli/cuit à l'eau",53,"0,14","1,75",-,"0,41",156,231,-,7,"0,83","0,15",1,"0,058",94,0
+légumineuses,"Pois chiche, appertisé, égoutté","41,2","0,21","1,15",-,"0,67","82,5",135,"23,3",216,"0,93","0,29","0,1","0,29","36,5",0
+légumineuses,"Haricot flageolet, vert, bouilli/cuit à l'eau",68,"0,18","1,8",< 20,"0,47",97,360,< 50,"28,2","0,6","< 0,08","< 0,5","0,064","34,6",0
+légumineuses,"Fève, pelée, surgelée, cuite à l'eau",31,"0,17","1,3",< 20,"0,18",97,97,< 20,"7,2","0,62",-,"< 0,5","0,042","49,1",-
+légumineuses,"Fève, surgelée, bouillie/cuite à l'eau",61,"0,21","0,93",< 20,"0,23",88,150,< 20,8,"0,55",-,"< 0,5","0,038","37,1",-
+légumineuses,"Lentille verte, bouillie/cuite à l'eau","39,5","0,25","2,45",< 20,"0,44",160,215,< 20,"5,8","1,25","0,53","< 0,5","0,11","50,5",-
+légumineuses,"Lentille blonde, bouillie/cuite à l'eau",32,"0,3","2,5",< 20,"0,46",120,230,< 20,< 5,"1,1",-,"< 0,5","0,13","43,1",-
+légumineuses,"Lentille corail, bouillie/cuite à l'eau",21,"0,29","2,2",< 20,"0,39",110,190,< 20,< 5,"1,3",-,"< 0,5","0,082",23,-
+légumineuses,"Légume sec, cuit (aliment moyen)","52,7","0,23","1,55","5,47","0,52",159,235,"6,73","4,63","0,9","0,099","1,05","0,13",131,0
+légumineuses,"Fève à écosser, fraîche","29,5","0,24","1,73",-,"0,49",112,291,"0,6","37,5","0,79","1,16","18,4","0,071",122,0
+légumineuses,"Lentille, germée",25,"0,35","3,21",-,"0,51",173,322,-,11,"1,51",-,"16,5","0,19",100,0
+légumineuses,"Lupin, graine crue",176,"1,02","4,36",-,"2,38",440,1010,-,15,"4,75",-,"4,8","0,36",355,0
+légumineuses,"Fève, fraîche, surgelée",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+légumineuses,"Haricot flageolet, surgelé",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+légumineuses,"Fève, pelée, surgelée, crue",-,-,-,-,-,-,-,-,15,-,-,-,-,-,-
+légumineuses,"Haricot blanc, sec",183,"0,73","7,97","0,6","1,9",363,1660,"8,8",11,"3,23","0,28","2,04","0,41",307,0
+légumineuses,"Lentille, sèche","45,4","0,71","6,51","0,7","1,39",326,674,12,74,"3,17","0,49","4,5","0,55",257,0
+légumineuses,"Pois cassé, sec","37,4","0,75","5,16","0,5","1,21",364,969,14,"15,4","3,68","0,09","1,4","0,12",154,0
+légumineuses,"Pois chiche, sec","90,5","0,71","5,36","0,6","2,2",276,759,2,"23,2","1,88","3,1","3,5","0,48",369,0
+légumineuses,"Fève, sèche",103,"0,82","6,7",-,"1,63",421,1060,-,13,"3,14","0,05","1,4","0,37",423,0
+légumineuses,"Haricot rouge, sec",83,"0,7","6,69","1,9","1,11",406,1360,-,12,"2,79","0,21","4,5","0,4",394,0
+légumineuses,"Haricot mungo, sec",113,"0,96","7,16",-,"1,28",387,1110,"8,8","26,5","3,02","1,9","12,2","0,39",421,0
+légumineuses,"Lentille corail, sèche",29,"0,82","6,3",< 20,"1,2",330,750,< 20,< 5,"3,9",-,"< 0,5","0,41",124,0
+légumineuses,"Haricot flageolet, vert, sec",-,"0,68","7,3",< 20,"1,6",440,-,< 50,"7,9","2,3","0,08","< 0,5","0,41",121,-
+légumineuses,"Lentille verte, sèche",64,"0,6","6,3",< 20,1,480,940,< 20,< 5,"3,4",-,"1,63","0,35",117,-
+légumineuses,"Lentille blonde, sèche",54,"0,79","7,4",< 20,"1,2",360,780,50,< 5,3,-,"< 0,5","0,44",103,-
+fruits,"Abricot, dénoyauté, cru",15,"0,06","0,19",< 20,"0,07",22,260,< 20,< 5,"0,09","0,7","2,55","0,054","7,6",0
+fruits,"Ananas, pulpe, cru",8,"0,06","0,17",< 20,"0,84","8,1",140,< 20,< 5,"0,08","< 0,08","46,1","0,052","19,6",0
+fruits,"Banane, pulpe, crue","5,1","0,06","0,2",< 20,"0,36",29,320,< 20,< 5,"0,14","< 0,08","7,16","0,18",19,0
+fruits,"Cassis, cru","57,1","0,093","1,17","1,5","0,28","53,5",330,"1,1","2,5","0,28","2,1",181,"0,073","8,2",0
+fruits,"Cerise, dénoyautée, crue","9,9","0,08","0,17",< 20,"0,06",19,190,< 20,< 5,"0,06","< 0,08","4,09","0,04","6,75",0
+fruits,"Citron, pulpe, cru",11,"0,04","0,15",< 20,"0,02",12,140,< 20,< 5,"0,33","< 0,08",45,"0,023","28,4",0
+fruits,"Coing, cru",11,"0,13","0,7","0,4",-,17,197,-,4,"0,04","0,55",15,"0,04",3,0
+fruits,"Figue, crue",57,"0,08","0,27",< 20,"0,06",21,230,< 20,5,"0,16","< 0,08","< 0,5","0,059","24,5",0
+fruits,"Fraise, crue",18,"0,02","0,19",< 20,"0,26",23,140,< 20,< 5,"0,11","0,3",54,"0,04","98,9",0
+fruits,"Framboise, crue",16,"0,04","0,4",< 20,"0,44",29,170,< 20,< 5,"0,24","0,88","18,7","0,032","38,1",0
+fruits,"Fruit de la passion ou maracudja, pulpe et pépins, cru","8,1","0,15","0,56",< 20,"0,19",46,240,< 20,< 5,"0,76","0,5","25,6","0,17",101,0
+fruits,"Grenade, pulpe et pépins, crue","9,5","0,11","0,17",< 20,"0,1",27,230,< 20,< 5,"0,22","< 0,08","9,02","0,032","8,77",0
+fruits,"Groseille, crue",38,"0,09","0,35",< 20,"0,13",38,230,< 20,< 5,"0,15","1,19","29,8","0,03","11,8",0
+fruits,"Groseille à maquereau, crue","25,4","0,063","0,33","0,3","0,16","26,2",187,"0,068","1,5","0,14","0,69",29,"0,048","8,85",0
+fruits,"Kiwi, pulpe et graines, cru",29,"0,15","0,16",< 20,"0,05",26,290,< 20,< 5,"0,12","0,96","81,9","0,036","22,2",0
+fruits,"Litchi, pulpe, cru","3,6","0,2","0,26",< 20,"0,1",27,200,< 20,< 5,"0,23","< 0,08","19,2","0,12","28,3",0
+fruits,"Clémentine ou Mandarine, pulpe, crue",23,"0,04","0,09",< 20,"0,02",18,140,< 20,< 5,"0,1","0,21","49,2","0,079","27,6",0
+fruits,"Mangue, pulpe, crue",12,"0,07","0,09",< 20,"0,07",12,150,< 20,< 5,"0,11","2,05",25,"0,1","70,2",0
+fruits,"Melon cantaloup (par ex.: Charentais, de Cavaillon) pulpe, cru",11,"0,06","0,21",< 20,"0,04",17,380,< 20,24,"0,18","< 0,08","8,14","0,055","58,9",0
+fruits,"Mirabelle, crue",11,"0,08","0,13",< 20,"0,07",21,240,< 20,< 5,"0,11","1,52","5,29","0,074","12,5",-
+fruits,"Myrtille, crue",6,"0,057","0,28","0,5","0,34",12,77,traces,1,"0,16","0,57","9,7","0,052",6,0
+fruits,"Mûre (de ronce), crue",31,"0,07","0,4",< 20,"1,1",25,200,< 20,< 5,"0,18","1,28","10,1","0,015",17,0
+fruits,"Nectarine ou brugnon, pulpe et peau, crue","3,38","0,078","0,28","0,3","0,061","26,7",201,"< 2,2","1,09","0,091","0,77","5,4","0,025",5,0
+fruits,"Orange, pulpe, crue",66,"0,04","0,57",< 20,"0,02",38,180,< 20,< 5,"0,25","0,19","47,5","< 0,01","25,9",0
+fruits,"Papaye, pulpe, crue",22,"< 0,01","0,16",< 20,"0,04","8,7",200,< 20,< 5,"< 0,05","< 0,08","65,3","0,02","55,3",0
+fruits,"Pastèque, pulpe, crue",6,"0,03","0,16",< 20,"0,02","9,7",100,< 20,< 5,"0,09","< 0,08","4,26","0,064","36,9",0
+fruits,"Poire, pulpe et peau, crue","6,46","0,071","0,072","0,4","0,03","15,4",132,< 10,"1,8","0,097","0,41","4,62","0,022","11,5",0
+fruits,"Pomme, pulpe et peau, crue","5,34","0,041","0,099","0,2","0,036","14,4",119,< 10,"1,5","0,031","0,37","6,25","0,048",6,0
+fruits,"Pomelo (dit Pamplemousse), pulpe, cru",14,"0,02","0,06",< 20,"0,02",17,140,< 20,< 5,"0,07","< 0,08","42,4","0,36","52,9",0
+fruits,"Prune Reine-Claude, crue",13,"0,1","0,16",< 20,"0,08",20,250,< 20,< 5,"0,12","1,2","4,16","0,049","18,4",0
+fruits,"Pêche, pulpe et peau, crue","7,32","0,075","0,15","0,3","0,064",21,215,"0,16","< 1,11","0,12","1,27","6,6","0,028","4,1",0
+fruits,"Raisin blanc, à gros grain (type Italia ou Dattier), cru",12,"0,19","0,2",< 20,"0,08",16,200,< 20,< 5,"< 0,05","0,31","1,07","0,043","16,3",0
+fruits,"Raisin noir, cru","8,98","0,078","0,2","0,4","0,051","21,8",152,"< 2,97","< 0,39","0,038","0,4","10,8","0,04",5,0
+fruits,"Rhubarbe, tige, crue",129,"0,039","0,28","0,3","0,16","18,6",239,"0,37",3,"0,17","0,31","9,7","0,032","7,25",0
+fruits,"Pomme, pulpe, crue",5,"0,031","0,07","0,1","0,038",11,90,"0,15",0,"0,05","0,05",4,"0,037",0,0
+fruits,"Carambole, pulpe, crue",3,"0,14","0,08","0,4","0,037",12,133,-,2,"0,12","0,15","34,4","0,017",12,0
+fruits,"Anone ou chérimole, pulpe, crue",9,"0,069","0,29","0,4","0,093",26,287,-,7,"0,16","0,27","12,1","0,26",23,0
+fruits,"Feijoa, pulpe, crue",17,"0,036","0,14",-,"0,084",19,172,-,3,"0,06","0,16","32,9","0,067",23,0
+fruits,"Figue de Barbarie, pulpe et graines, crue",118,"0,019","0,25","1,5","0,58","17,5",175,-,"4,5","0,14","0,01","12,5","0,079",8,0
+fruits,"Kaki, pulpe, cru","6,9","0,03","0,06",< 20,"0,13",13,160,< 20,< 5,"< 0,05","0,12","3,41","< 0,01","22,1",0
+fruits,"Citron vert ou Lime, pulpe, cru",57,"0,08","0,2",< 20,"0,09",24,190,< 20,6,"0,15","0,45","29,3","0,018","36,5",0
+fruits,"Mûre noire (du mûrier), crue",39,"0,06","1,85","0,4","1,1",38,194,-,10,"0,12","0,87","36,4","0,05",6,0
+fruits,"Ramboutan, pulpe, crue",22,"0,066","0,35",-,"0,34",9,42,-,11,"0,08",-,"4,9","0,02",8,0
+fruits,"Tamarin, fruit mûr, pulpe, cru",74,"0,086","2,8",-,-,113,628,-,28,"0,1","0,1","3,5","0,066",14,0
+fruits,"Goyave, pulpe, crue",14,"0,23","0,26","0,71","0,15",40,308,"0,5",2,"0,21","0,73",228,"0,094",49,0
+fruits,"Pomme Canada, pulpe, crue","3,59","0,035","0,14","1,12","0,03","8,61",154,"0,045","3,69","0,09","0,27",4,"0,06",1,0
+fruits,"Pomme Golden, pulpe, crue","2,8","0,03","0,06",< 20,"0,03","8,8",110,< 20,< 5,"< 0,05","< 0,08","1,29","0,052","8,93",-
+fruits,"Prune, crue","7,29","0,06","0,16","0,4","0,076","17,8",149,"0,11",3,"0,096","0,33","7,25","0,037",4,0
+fruits,"Raisin Chasselas, cru",16,"0,08","0,14",< 20,"0,07",21,150,< 20,< 5,"0,07","0,35","4,14","0,054","8,34",-
+fruits,"Poire, pulpe, crue",11,"0,06","0,2",1,0,13,150,1,3,"0,1",-,6,"0,02",2,0
+fruits,"Griotte, crue",16,"0,1","0,32",-,"0,11",15,173,-,3,"0,1","0,07",10,"0,044",8,0
+fruits,"Raisin, cru",10,"0,13","0,36","0,75","0,071",20,191,"0,8",2,"0,07","0,19","3,2","0,086",2,0
+fruits,"Canneberge ou cranberry, crue",11,"0,061","0,44","0,15","0,36","13,5","98,8",0,8,"0,1","1,2","13,7","0,057",1,0
+fruits,"Pomme Granny Smith, pulpe, crue","3,2","0,03","0,08",< 20,"0,02","7,6",110,< 20,< 5,"< 0,05","< 0,08","2,21","0,029","7,16",-
+fruits,"Pomme Granny Smith, pulpe et peau, crue","3,2","0,04","0,06",< 20,"0,02","7,6",110,< 20,< 5,"< 0,05","< 0,08","2,31","0,03","5,76",-
+fruits,"Citron, zeste, cru",134,"0,092","0,9",-,-,12,160,7,6,"0,25","0,25",129,"0,17",13,0
+fruits,"Sureau, baie, crue","42,7","0,062","1,25","2,5",-,"47,4",301,"0,6",7,"0,16",1,"32,5","0,21",9,0
+fruits,"Myrtille, surgelée, crue",10,"0,035","0,39",-,"0,18",10,"55,5",-,1,"0,068","0,5","8,08","0,059",7,0
+fruits,"Salade de fruits, crue","14,5","0,071","0,29","1,18","0,34","16,7",203,"4,9","0,81","0,094","0,37",20,"0,17","20,2",0
+fruits,"Framboise, surgelée, crue","29,9","0,11","0,78","0,4","1,2",38,228,"0,19","2,17","0,34","1,4","24,5","0,09",44,0
+fruits,"Nectarine ou brugnon, jaune, pulpe et peau, crue","4,8","0,06","0,13",< 20,"0,05",19,220,< 20,< 5,"0,11","< 0,08","3,38","< 0,01","8,4",-
+fruits,"Nectarine ou brugnon, blanche, pulpe et peau, crue",5,"0,07","0,13",< 20,"0,06",18,210,< 20,< 5,"0,1","1,04","3,01","< 0,01","11,9",-
+fruits,"Mûre (de ronce), surgelée, crue",29,"0,12","0,8",-,"1,22",30,140,-,1,"0,25","1,17","3,1","0,061",34,0
+fruits,"Pomelo (dit Pamplemousse) jaune, pulpe, cru",12,"0,05","0,06",-,"0,013",8,148,-,0,"0,07","0,13","33,3","0,043",10,0
+fruits,"Pomelo (dit Pamplemousse) rose, pulpe, cru",22,"0,032","0,08",-,"0,022",18,135,-,0,"0,07","0,13","31,2","0,053",13,0
+fruits,"Poire Conférence, pulpe, crue","3,9","0,05","0,09",< 20,"0,02","9,3",99,< 20,< 5,"0,07","< 0,08","1,39","< 0,01","12,6",-
+fruits,"Poire Williams, pulpe, crue","6,1","0,05","0,07",< 20,"0,02","9,8",120,< 20,< 5,"0,09","< 0,08","2,57","< 0,01","18,4",-
+fruits,"Pomme Chantecler, pulpe, crue",4,"0,04","0,06",< 20,"0,03",10,120,< 20,< 5,"0,05","< 0,08","2,85","0,039",< 5,-
+fruits,"Pomme Gala, pulpe, crue","3,6","0,03","0,06",< 20,"0,02","7,8",91,< 20,< 5,"< 0,05","< 0,08","1,33","0,035","6,98",-
+fruits,"Pomme Pink lady, pulpe, crue","2,8","0,03","0,07",< 20,"0,02","7,5",110,< 20,< 5,"< 0,05","< 0,08","2,13","0,058",< 5,-
+fruits,"Pêche blanche, pulpe et peau, crue","4,1","0,06","0,11",< 20,"0,05",18,180,< 20,< 5,"0,11","0,19","3,85","< 0,01","7,92",-
+fruits,"Pêche blanche, pulpe, crue","3,9","0,06","0,12",< 20,"0,05",18,170,< 20,< 5,"0,1","0,28","4,09","< 0,01","10,5",-
+fruits,"Pêche jaune, pulpe, crue","4,2","0,06","0,11",< 20,"0,04",17,190,< 20,< 5,"0,09","0,5","3,43","0,015",12,-
+fruits,"Dourian, pulpe, cru",6,"0,21","0,43",-,"0,33",39,436,-,2,"0,28",-,"19,7","0,32",36,0
+fruits,"Kumquat, sans pépin, cru","65,5","0,095","0,67",-,"0,14",19,158,0,8,"0,13","0,15",45,"0,036",17,0
+fruits,"Longan, pulpe, cru",1,"0,17","0,13",-,"0,052",21,266,-,0,"0,05",-,84,-,50,0
+fruits,"Pamplemousse chinois, pulpe, cru",4,"0,048","0,11",-,"0,017",17,216,-,1,"0,08",-,61,"0,036",-,0
+fruits,"Pomme Golden, pulpe et peau, crue",4,"0,04","0,07",< 20,"0,03",10,130,< 20,< 5,"0,07","< 0,08","< 0,5","0,046",< 5,-
+fruits,"Raisin noir Muscat, cru",13,"0,12","0,22",< 20,"0,09",20,210,< 20,< 5,"0,06","0,99","3,11","0,034",11,-
+fruits,"Melon miel ou melon honeydew, pulpe, cru",6,"0,033","0,34",0,"0,034","15,8",237,0,"24,1","0,086","0,035","16,8","0,072",17,0
+fruits,"Fruits rouges, crus (framboises, fraises, groseilles, cassis)",40,"0,088",1,"1,15","0,42","32,6",225,"0,35",3,"0,22","0,67",87,"0,064","37,6",0
+fruits,Fruit cru (aliment moyen),"14,5","0,059","0,18","6,83","0,12","20,1",197,"7,53","3,45","0,11","0,29","20,9","0,065",22,0
+fruits,Compote de pomme,"4,44","0,043","0,11","0,2","0,027",6,104,< 10,traces,"0,025","0,18","14,5","0,027",1,0
+fruits,"Rhubarbe, tige, cuite, sucrée",145,"0,027","0,21","0,3","0,073",8,96,-,1,"0,08","0,19","3,3","0,02",5,0
+fruits,"Compote, tout type de fruits",18,"0,05","0,13","0,1","0,04",13,150,< 20,< 5,"0,07","0,87",42,"0,025","13,6",0
