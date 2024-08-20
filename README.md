@@ -80,6 +80,54 @@ Access the app at `http://localhost:${PORT}`
 ├── database.py
 ├── main.py
 └── requirements.txt
+```
 
+# Screenshots
+## Login
 
+  <div class="image-container">
+        <img src="./screenshots/login_page.png" width="300" height="300">
+  </div>
+  
+  ## Doctor
+  
+  <div class="image-container" style="display:flex; justify-content: center; gap:20px">
+        <img src="./screenshots/Doctor/add_patient.png" width="300" height="300">
+        <img src="./screenshots/Doctor/analyse_manage.png"  width="300" height="300">
+        <img src="./screenshots/Doctor/change_account_picture.png" width="300" height="300">
+  </div>
+  <div class="image-container" style="display:flex; justify-content: center; gap:20px">
+        <img src="./screenshots/Doctor/delete_patient.png" width="300" height="300">
+        <img src="./screenshots/Doctor/doctor_home_page.png"  width="300" height="300">
+        <img src="./screenshots/Doctor/edit_account.png" width="300" height="300">
+  </div>
+  <div class="image-container" style="display:flex; justify-content: center; gap:20px">
+        <img src="./screenshots/Doctor/manage_patients.png" width="300" height="300">
+        <img src="./screenshots/Doctor/doctor_home_page.png"  width="300" height="300">
+        <img src="./screenshots/Doctor/rdv_manage.png" width="300" height="300">
+  </div>
+    <div class="image-container" style="display:flex; justify-content: center; gap:20px">
+        <img src="./screenshots/Doctor/recommandation_sys.png" width="300" height="300">
+        <img src="./screenshots/Doctor/validate_informations.png"  width="300" height="300">
+        <img src="./screenshots/Doctor/view_analyse.png" width="300" height="300">
+  </div>
 
+  ## Patient
+    
+  <div class="image-container" style="display:flex; justify-content: center; gap:20px">
+        <img src="./screenshots/Patient/add_analyse.png" width="300" height="300">
+        <img src="./screenshots/Patient/analyses_page.png"  width="300" height="300">
+        <img src="./screenshots/Patient/edit_account.png" width="300" height="300">
+  </div>
+  <div class="image-container" style="display:flex; justify-content: center; gap:20px">
+        <img src="./screenshots/Patient/informations.png" width="300" height="300">
+        <img src="./screenshots/Patient/notifications.png"  width="300" height="300">
+        <img src="./screenshots/Patient/patient_home_page.png" width="300" height="300">
+  </div>
+  
+# Licence
+
+Project Rights Reserved for Students Team as a startup project:
+- Mekid Manel
+- Belkessa Narimen
+- Bouzid Nosseiba
